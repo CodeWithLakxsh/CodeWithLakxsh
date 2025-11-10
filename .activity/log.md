@@ -8903,3 +8903,4 @@
 [2025-11-10 10:45:35 IST] Tested OSINT techniques
 [2025-11-10 13:29:48 IST] Documented RE notes
 [2025-11-10 21:53:04 IST] Documented malware IOCs
+[2025-11-10 21:25:10 IST] Tested Frida hook scripts
