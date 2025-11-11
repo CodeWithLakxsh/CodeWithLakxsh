@@ -297,3 +297,4 @@
 [2025-11-11 13:00:19 IST] Refactored security scanner module
 [2025-11-11 16:02:44 IST] Reviewed APK decompilation output
 [2025-11-11 17:11:39 IST] Reviewed Metasploit payloads
+[2025-11-11 19:14:52 IST] Documented malware IOCs
