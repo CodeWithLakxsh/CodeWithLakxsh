@@ -293,3 +293,4 @@
 [2025-11-10 07:43:06 IST] Updated exploit mitigation checks
 [2025-11-10 07:41:41 IST] Updated Wireshark display filters
 [2025-11-10 22:55:39 IST] Tested Android root detection bypass
+[2025-11-11 15:54:49 IST] Documented malware IOCs
