@@ -8966,3 +8966,4 @@
 [2025-11-12 10:58:11 IST] Practiced ARM disassembly
 [2025-11-12 11:21:27 IST] Improved sandbox configs
 [2025-11-12 11:04:52 IST] Documented malware IOCs
+[2025-11-12 21:28:25 IST] Updated Nmap profiles
