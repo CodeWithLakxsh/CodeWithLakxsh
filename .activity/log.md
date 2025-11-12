@@ -347,3 +347,4 @@
 [2025-11-12 12:54:13 IST] Updated Burp Suite configs
 [2025-11-12 17:11:07 IST] Updated Volatility memory profiles
 [2025-11-12 13:45:30 IST] Improved malware sandbox configs
+[2025-11-12 14:10:42 IST] Updated YARA detection rules
