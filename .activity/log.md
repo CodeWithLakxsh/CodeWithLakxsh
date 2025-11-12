@@ -348,3 +348,4 @@
 [2025-11-12 17:11:07 IST] Updated Volatility memory profiles
 [2025-11-12 13:45:30 IST] Improved malware sandbox configs
 [2025-11-12 14:10:42 IST] Updated YARA detection rules
+[2025-11-12 10:20:25 IST] Tested new Ghidra plugins
