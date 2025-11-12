@@ -349,3 +349,4 @@
 [2025-11-12 13:45:30 IST] Improved malware sandbox configs
 [2025-11-12 14:10:42 IST] Updated YARA detection rules
 [2025-11-12 10:20:25 IST] Tested new Ghidra plugins
+[2025-11-12 07:13:18 IST] Added new Nmap scan profiles
