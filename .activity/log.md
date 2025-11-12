@@ -8953,3 +8953,4 @@
 [2025-11-12 12:12:42 IST] Tested Frida hook scripts
 [2025-11-12 07:15:49 IST] Reviewed Metasploit payloads
 [2025-11-12 15:34:53 IST] Tested Frida hook scripts
+[2025-11-12 11:04:28 IST] Tested Ghidra plugins
