@@ -376,3 +376,4 @@
 [2025-11-13 19:43:21 IST] Updated Wireshark display filters
 [2025-11-13 16:29:51 IST] Added new Nmap scan profiles
 [2025-11-13 09:20:51 IST] Tested new OSINT techniques
+[2025-11-13 15:34:09 IST] Updated YARA detection rules
