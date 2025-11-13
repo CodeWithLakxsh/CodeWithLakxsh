@@ -8993,3 +8993,4 @@
 [2025-11-13 17:36:46 IST] Documented malware IOCs
 [2025-11-13 17:46:00 IST] Tested Frida hook scripts
 [2025-11-13 11:41:38 IST] Updated Burp Suite configs
+[2025-11-13 14:25:50 IST] Practiced ARM disassembly
