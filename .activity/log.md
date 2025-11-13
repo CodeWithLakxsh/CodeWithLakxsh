@@ -368,3 +368,4 @@
 [2025-11-13 22:20:36 IST] Tested Frida hook scripts
 [2025-11-13 10:38:59 IST] Analyzed suspicious PE headers
 [2025-11-13 12:22:10 IST] Documented RE workflow notes
+[2025-11-13 19:13:51 IST] Documented malware IOCs
