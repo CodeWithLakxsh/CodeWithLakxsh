@@ -374,3 +374,4 @@
 [2025-11-13 17:05:54 IST] Documented RE workflow notes
 [2025-11-13 20:02:15 IST] Updated Burp Suite configs
 [2025-11-13 19:43:21 IST] Updated Wireshark display filters
+[2025-11-13 16:29:51 IST] Added new Nmap scan profiles
