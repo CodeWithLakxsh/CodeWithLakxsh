@@ -399,3 +399,4 @@
 [2025-11-14 11:02:49 IST] Reviewed CVE disclosures
 [2025-11-14 21:07:07 IST] Tested Objection bypass scripts
 [2025-11-14 08:18:45 IST] Updated Volatility memory profiles
+[2025-11-14 16:46:21 IST] Updated IDA Pro signatures
