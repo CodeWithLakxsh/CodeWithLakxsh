@@ -407,3 +407,4 @@
 [2025-11-14 06:37:04 IST] Reviewed MobSF scan results
 [2025-11-14 16:10:37 IST] Improved malware sandbox configs
 [2025-11-14 15:16:16 IST] Improved code analysis toolchain
+[2025-11-14 08:29:50 IST] Updated YARA detection rules
