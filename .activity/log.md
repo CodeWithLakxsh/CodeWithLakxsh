@@ -383,3 +383,4 @@
 [2025-11-13 14:46:30 IST] Updated Drozer modules
 [2025-11-14 17:06:43 IST] Improved Hashcat rule sets
 [2025-11-14 17:44:06 IST] Reviewed binary diffing results
+[2025-11-14 13:11:13 IST] Documented malware IOCs
