@@ -401,3 +401,4 @@
 [2025-11-14 08:18:45 IST] Updated Volatility memory profiles
 [2025-11-14 16:46:21 IST] Updated IDA Pro signatures
 [2025-11-14 23:49:08 IST] Updated Volatility memory profiles
+[2025-11-14 12:13:30 IST] Improved Hashcat rule sets
