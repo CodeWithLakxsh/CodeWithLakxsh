@@ -431,3 +431,4 @@
 [2025-11-15 19:33:49 IST] Improved threat detection pipeline
 [2025-11-15 17:29:04 IST] Updated YARA detection rules
 [2025-11-15 13:22:58 IST] Updated IDA Pro signatures
+[2025-11-15 15:15:59 IST] Documented RE workflow notes
