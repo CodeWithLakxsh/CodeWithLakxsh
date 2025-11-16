@@ -458,3 +458,4 @@
 [2025-11-16 12:04:32 IST] Tested Android root detection bypass
 [2025-11-16 09:56:29 IST] Tested new Ghidra plugins
 [2025-11-16 13:29:04 IST] Tested Objection bypass scripts
+[2025-11-16 22:59:27 IST] Updated YARA detection rules
