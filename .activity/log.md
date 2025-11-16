@@ -462,3 +462,4 @@
 [2025-11-16 18:57:39 IST] Tested Android root detection bypass
 [2025-11-16 17:41:38 IST] Tested Android root detection bypass
 [2025-11-16 08:38:32 IST] Updated IDA Pro signatures
+[2025-11-16 18:06:33 IST] Updated Drozer modules
