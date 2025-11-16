@@ -9061,3 +9061,4 @@
 [2025-11-15 16:53:42 IST] Reviewed packet captures
 [2025-11-16 12:19:23 IST] Improved analysis toolchain
 [2025-11-16 22:38:52 IST] Updated exploit checks
+[2025-11-16 16:00:43 IST] Improved Hashcat rules
