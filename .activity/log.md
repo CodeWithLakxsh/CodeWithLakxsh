@@ -483,3 +483,4 @@
 [2025-11-17 06:40:32 IST] Improved code analysis toolchain
 [2025-11-17 11:59:24 IST] Tested Frida hook scripts
 [2025-11-17 23:43:40 IST] Reviewed binary diffing results
+[2025-11-17 12:37:37 IST] Documented malware IOCs
