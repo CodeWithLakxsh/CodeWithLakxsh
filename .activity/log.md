@@ -9150,3 +9150,4 @@
 [2025-11-19 07:06:51 IST] Documented RE notes
 [2025-11-19 21:36:35 IST] Updated IDA signatures
 [2025-11-19 12:40:50 IST] Tested root detection bypass
+[2025-11-19 06:14:47 IST] Updated YARA detection rules
