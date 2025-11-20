@@ -9189,3 +9189,4 @@
 [2025-11-20 23:10:46 IST] Improved Hashcat rules
 [2025-11-20 11:37:35 IST] Reviewed packet captures
 [2025-11-20 19:59:33 IST] Documented malware IOCs
+[2025-11-20 08:24:06 IST] Updated IDA signatures
