@@ -549,3 +549,4 @@
 [2025-11-19 06:19:17 IST] Updated Wireshark display filters
 [2025-11-20 13:32:30 IST] Tested SQLMap tamper scripts
 [2025-11-20 08:26:26 IST] Tested new Ghidra plugins
+[2025-11-20 10:07:06 IST] Documented malware IOCs
