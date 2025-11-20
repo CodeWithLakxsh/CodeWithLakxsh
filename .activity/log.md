@@ -9186,3 +9186,4 @@
 [2025-11-20 22:44:05 IST] Updated exploit checks
 [2025-11-20 23:07:29 IST] Improved threat detection
 [2025-11-20 21:08:33 IST] Documented malware IOCs
+[2025-11-20 23:10:46 IST] Improved Hashcat rules
