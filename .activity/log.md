@@ -578,3 +578,4 @@
 [2025-11-21 13:20:14 IST] Tested Objection bypass scripts
 [2025-11-21 10:25:16 IST] Documented RE workflow notes
 [2025-11-21 12:14:51 IST] Updated Volatility memory profiles
+[2025-11-21 15:07:55 IST] Updated exploit mitigation checks
