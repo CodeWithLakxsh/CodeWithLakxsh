@@ -585,3 +585,4 @@
 [2025-11-21 18:43:21 IST] Reviewed Metasploit payloads
 [2025-11-21 17:29:24 IST] Documented RE workflow notes
 [2025-11-21 15:08:35 IST] Updated YARA detection rules
+[2025-11-21 12:36:43 IST] Updated Burp Suite configs
