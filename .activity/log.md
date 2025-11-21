@@ -570,3 +570,4 @@
 [2025-11-21 13:33:32 IST] Reviewed Metasploit payloads
 [2025-11-21 12:37:55 IST] Updated Burp Suite configs
 [2025-11-21 11:42:29 IST] Updated Volatility memory profiles
+[2025-11-21 12:51:49 IST] Documented malware IOCs
