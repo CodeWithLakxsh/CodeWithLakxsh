@@ -586,3 +586,4 @@
 [2025-11-21 17:29:24 IST] Documented RE workflow notes
 [2025-11-21 15:08:35 IST] Updated YARA detection rules
 [2025-11-21 12:36:43 IST] Updated Burp Suite configs
+[2025-11-21 18:41:25 IST] Updated IDA Pro signatures
