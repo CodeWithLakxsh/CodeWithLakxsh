@@ -9218,3 +9218,4 @@
 [2025-11-21 06:50:48 IST] Improved sandbox configs
 [2025-11-21 21:03:59 IST] Improved threat detection
 [2025-11-21 21:10:03 IST] Improved analysis toolchain
+[2025-11-21 23:57:34 IST] Tested Frida hook scripts
