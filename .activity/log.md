@@ -9235,3 +9235,4 @@
 [2025-11-21 11:14:49 IST] Improved sandbox configs
 [2025-11-21 10:52:24 IST] Improved Hashcat rules
 [2025-11-21 13:30:01 IST] Tested SQLMap scripts
+[2025-11-22 16:16:59 IST] Updated YARA detection rules
