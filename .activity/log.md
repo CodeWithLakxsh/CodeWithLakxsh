@@ -9252,3 +9252,4 @@
 [2025-11-22 21:25:31 IST] Tested OSINT techniques
 [2025-11-22 14:05:33 IST] Improved sandbox configs
 [2025-11-22 20:02:47 IST] Reviewed binary diffs
+[2025-11-22 10:56:40 IST] Documented malware IOCs
