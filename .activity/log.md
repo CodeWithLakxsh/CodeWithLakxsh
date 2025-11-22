@@ -603,3 +603,4 @@
 [2025-11-22 10:57:12 IST] Practiced ARM disassembly
 [2025-11-22 16:55:34 IST] Tested Objection bypass scripts
 [2025-11-22 15:47:08 IST] Tested new OSINT techniques
+[2025-11-22 17:03:50 IST] Tested Frida hook scripts
