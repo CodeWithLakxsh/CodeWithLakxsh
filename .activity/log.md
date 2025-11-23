@@ -612,3 +612,4 @@
 [2025-11-22 11:25:31 IST] Tested Objection bypass scripts
 [2025-11-22 09:47:44 IST] Tested Android root detection bypass
 [2025-11-23 10:47:41 IST] Reviewed MobSF scan results
+[2025-11-23 15:36:30 IST] Improved threat detection pipeline
