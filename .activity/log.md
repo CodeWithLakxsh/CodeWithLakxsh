@@ -9267,3 +9267,4 @@
 [2025-11-22 09:06:54 IST] Reviewed CVE disclosures
 [2025-11-22 20:57:08 IST] Tested OSINT techniques
 [2025-11-23 07:42:09 IST] Documented malware IOCs
+[2025-11-23 16:24:12 IST] Tested root detection bypass
