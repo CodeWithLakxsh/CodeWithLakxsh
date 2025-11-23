@@ -9273,3 +9273,4 @@
 [2025-11-23 07:18:38 IST] Documented malware IOCs
 [2025-11-23 10:29:25 IST] Tested Ghidra plugins
 [2025-11-23 11:57:06 IST] Reviewed packet captures
+[2025-11-23 23:35:32 IST] Improved Hashcat rules
