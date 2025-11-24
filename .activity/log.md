@@ -644,3 +644,4 @@
 [2025-11-24 21:22:11 IST] Documented malware IOCs
 [2025-11-24 13:59:35 IST] Reviewed binary diffing results
 [2025-11-24 10:27:05 IST] Tested Frida hook scripts
+[2025-11-24 23:27:39 IST] Tested new Ghidra plugins
