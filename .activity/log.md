@@ -9319,3 +9319,4 @@
 [2025-11-25 15:14:28 IST] Documented malware IOCs
 [2025-11-25 11:18:34 IST] Tested Frida hook scripts
 [2025-11-25 15:19:30 IST] Updated Volatility profiles
+[2025-11-25 08:09:42 IST] Improved Hashcat rules
