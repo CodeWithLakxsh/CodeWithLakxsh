@@ -9321,3 +9321,4 @@
 [2025-11-25 15:19:30 IST] Updated Volatility profiles
 [2025-11-25 08:09:42 IST] Improved Hashcat rules
 [2025-11-25 11:49:47 IST] Reviewed packet captures
+[2025-11-25 16:19:41 IST] Updated YARA detection rules
