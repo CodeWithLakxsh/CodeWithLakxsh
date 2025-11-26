@@ -687,3 +687,4 @@
 [2025-11-26 07:45:57 IST] Documented RE workflow notes
 [2025-11-26 11:03:35 IST] Tested Frida hook scripts
 [2025-11-26 20:27:12 IST] Reviewed MobSF scan results
+[2025-11-26 17:04:59 IST] Updated exploit mitigation checks
