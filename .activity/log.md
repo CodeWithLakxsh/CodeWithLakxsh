@@ -9352,3 +9352,4 @@
 [2025-11-26 07:32:59 IST] Tested root detection bypass
 [2025-11-26 12:41:52 IST] Updated IDA signatures
 [2025-11-26 13:20:09 IST] Updated IDA signatures
+[2025-11-26 21:37:41 IST] Updated YARA detection rules
