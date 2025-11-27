@@ -9385,3 +9385,4 @@
 [2025-11-27 15:39:19 IST] Reviewed CVE disclosures
 [2025-11-27 14:22:57 IST] Updated YARA detection rules
 [2025-11-27 07:30:52 IST] Tested root detection bypass
+[2025-11-27 08:47:26 IST] Documented malware IOCs
