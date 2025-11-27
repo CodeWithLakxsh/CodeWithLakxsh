@@ -9400,3 +9400,4 @@
 [2025-11-27 15:56:07 IST] Improved Hashcat rules
 [2025-11-27 10:40:56 IST] Reviewed MobSF results
 [2025-11-27 20:09:46 IST] Reviewed binary diffs
+[2025-11-27 09:09:43 IST] Updated YARA detection rules
