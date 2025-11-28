@@ -739,3 +739,4 @@
 [2025-11-28 11:47:33 IST] Tested new OSINT techniques
 [2025-11-28 12:48:15 IST] Analyzed suspicious PE headers
 [2025-11-28 08:44:36 IST] Tested Android root detection bypass
+[2025-11-28 12:45:54 IST] Updated Wireshark display filters
