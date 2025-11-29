@@ -9441,3 +9441,4 @@
 [2025-11-28 17:18:09 IST] Documented RE notes
 [2025-11-28 19:51:45 IST] Reviewed CVE disclosures
 [2025-11-29 06:58:37 IST] Updated Volatility profiles
+[2025-11-29 20:48:22 IST] Tested Frida hook scripts
