@@ -757,3 +757,4 @@
 [2025-11-29 15:56:37 IST] Updated exploit mitigation checks
 [2025-11-29 11:51:42 IST] Reviewed APK decompilation output
 [2025-11-29 23:54:28 IST] Reviewed CVE disclosures
+[2025-11-29 11:03:57 IST] Added new Nmap scan profiles
