@@ -783,3 +783,4 @@
 [2025-11-29 21:24:32 IST] Reviewed Metasploit payloads
 [2025-11-29 17:21:14 IST] Practiced ARM disassembly
 [2025-11-29 13:34:10 IST] Documented RE workflow notes
+[2025-11-29 15:34:30 IST] Tested Android root detection bypass
