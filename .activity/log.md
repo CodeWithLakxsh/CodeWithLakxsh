@@ -776,3 +776,4 @@
 [2025-11-29 09:17:53 IST] Practiced ARM disassembly
 [2025-11-29 11:34:48 IST] Practiced ARM disassembly
 [2025-11-29 21:46:55 IST] Tested Android root detection bypass
+[2025-11-29 09:30:41 IST] Reviewed CVE disclosures
