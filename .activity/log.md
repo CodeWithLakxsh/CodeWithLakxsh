@@ -758,3 +758,4 @@
 [2025-11-29 11:51:42 IST] Reviewed APK decompilation output
 [2025-11-29 23:54:28 IST] Reviewed CVE disclosures
 [2025-11-29 11:03:57 IST] Added new Nmap scan profiles
+[2025-11-29 08:00:41 IST] Improved threat detection pipeline
