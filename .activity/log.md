@@ -809,3 +809,4 @@
 [2025-11-30 10:43:53 IST] Reviewed CVE disclosures
 [2025-11-30 09:44:21 IST] Improved malware sandbox configs
 [2025-11-30 09:26:30 IST] Improved threat detection pipeline
+[2025-11-30 19:53:05 IST] Tested Frida hook scripts
