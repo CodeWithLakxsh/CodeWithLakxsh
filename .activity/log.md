@@ -806,3 +806,4 @@
 [2025-11-30 23:49:59 IST] Updated Burp Suite configs
 [2025-11-30 16:27:09 IST] Documented RE workflow notes
 [2025-11-30 07:03:04 IST] Updated Wireshark display filters
+[2025-11-30 10:43:53 IST] Reviewed CVE disclosures
