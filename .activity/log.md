@@ -9489,3 +9489,4 @@
 [2025-11-30 11:46:52 IST] Tested Frida hook scripts
 [2025-11-30 23:40:16 IST] Documented malware IOCs
 [2025-11-30 22:08:02 IST] Practiced ARM disassembly
+[2025-11-30 11:29:13 IST] Updated Burp Suite configs
