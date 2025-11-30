@@ -787,3 +787,4 @@
 [2025-11-29 20:23:18 IST] Documented RE workflow notes
 [2025-11-29 16:56:30 IST] Tested Frida hook scripts
 [2025-11-30 19:04:47 IST] Reviewed Metasploit payloads
+[2025-11-30 19:11:55 IST] Updated exploit mitigation checks
