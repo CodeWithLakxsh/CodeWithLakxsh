@@ -799,3 +799,4 @@
 [2025-11-30 19:09:25 IST] Updated Drozer modules
 [2025-11-30 11:53:37 IST] Improved code analysis toolchain
 [2025-11-30 11:27:09 IST] Reviewed APK decompilation output
+[2025-11-30 09:38:34 IST] Added new Nmap scan profiles
