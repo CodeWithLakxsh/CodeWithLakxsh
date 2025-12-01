@@ -829,3 +829,4 @@
 [2025-12-01 14:01:17 IST] Reviewed Metasploit payloads
 [2025-12-01 10:14:32 IST] Updated Wireshark display filters
 [2025-12-01 18:28:37 IST] Practiced ARM disassembly
+[2025-12-01 20:00:08 IST] Tested Frida hook scripts
