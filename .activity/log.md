@@ -828,3 +828,4 @@
 [2025-12-01 09:25:16 IST] Updated Burp Suite configs
 [2025-12-01 14:01:17 IST] Reviewed Metasploit payloads
 [2025-12-01 10:14:32 IST] Updated Wireshark display filters
+[2025-12-01 18:28:37 IST] Practiced ARM disassembly
