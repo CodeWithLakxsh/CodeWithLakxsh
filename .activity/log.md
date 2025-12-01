@@ -9517,3 +9517,4 @@
 [2025-12-01 13:10:40 IST] Reviewed binary diffs
 [2025-12-01 12:22:04 IST] Tested root detection bypass
 [2025-12-01 14:45:23 IST] Documented malware IOCs
+[2025-12-01 17:55:45 IST] Updated Nmap profiles
