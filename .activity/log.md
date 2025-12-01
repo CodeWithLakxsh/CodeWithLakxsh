@@ -9501,3 +9501,4 @@
 [2025-11-30 15:33:16 IST] Documented malware IOCs
 [2025-12-01 22:23:51 IST] Reviewed packet captures
 [2025-12-01 09:04:28 IST] Tested root detection bypass
+[2025-12-01 13:53:28 IST] Updated YARA detection rules
