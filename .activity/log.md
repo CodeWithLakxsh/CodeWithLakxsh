@@ -840,3 +840,4 @@
 [2025-12-01 18:30:38 IST] Tested Frida hook scripts
 [2025-12-01 14:11:04 IST] Improved malware sandbox configs
 [2025-12-01 10:49:37 IST] Updated Burp Suite configs
+[2025-12-01 20:55:19 IST] Practiced ARM disassembly
