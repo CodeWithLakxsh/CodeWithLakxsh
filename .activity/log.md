@@ -858,3 +858,4 @@
 [2025-12-02 14:29:16 IST] Updated Volatility memory profiles
 [2025-12-02 13:00:07 IST] Tested Android root detection bypass
 [2025-12-02 19:12:00 IST] Added new Nmap scan profiles
+[2025-12-02 13:26:50 IST] Updated Drozer modules
