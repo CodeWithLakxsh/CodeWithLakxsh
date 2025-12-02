@@ -9537,3 +9537,4 @@
 [2025-12-02 07:26:23 IST] Tested SQLMap scripts
 [2025-12-02 21:31:18 IST] Improved threat detection
 [2025-12-02 18:00:53 IST] Improved threat detection
+[2025-12-02 11:14:51 IST] Documented malware IOCs
