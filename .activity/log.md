@@ -9530,3 +9530,4 @@
 [2025-12-01 16:55:32 IST] Improved threat detection
 [2025-12-01 09:00:56 IST] Documented malware IOCs
 [2025-12-02 09:16:53 IST] Reviewed CVE disclosures
+[2025-12-02 20:57:24 IST] Tested Frida hook scripts
