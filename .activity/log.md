@@ -844,3 +844,4 @@
 [2025-12-01 13:35:18 IST] Improved malware sandbox configs
 [2025-12-01 07:40:10 IST] Improved threat detection pipeline
 [2025-12-02 17:00:29 IST] Reviewed binary diffing results
+[2025-12-02 16:14:38 IST] Added new Nmap scan profiles
