@@ -850,3 +850,4 @@
 [2025-12-02 15:02:52 IST] Tested SQLMap tamper scripts
 [2025-12-02 19:14:51 IST] Tested Frida hook scripts
 [2025-12-02 14:40:11 IST] Documented malware IOCs
+[2025-12-02 08:57:07 IST] Tested Android root detection bypass
