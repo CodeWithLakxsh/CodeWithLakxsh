@@ -9565,3 +9565,4 @@
 [2025-12-02 18:56:49 IST] Reviewed MobSF results
 [2025-12-02 07:45:21 IST] Improved Hashcat rules
 [2025-12-02 06:37:53 IST] Updated IDA signatures
+[2025-12-02 18:29:49 IST] Updated exploit checks
