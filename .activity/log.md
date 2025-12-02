@@ -852,3 +852,4 @@
 [2025-12-02 14:40:11 IST] Documented malware IOCs
 [2025-12-02 08:57:07 IST] Tested Android root detection bypass
 [2025-12-02 09:37:22 IST] Improved Hashcat rule sets
+[2025-12-02 07:56:43 IST] Tested new OSINT techniques
