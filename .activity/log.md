@@ -9538,3 +9538,4 @@
 [2025-12-02 21:31:18 IST] Improved threat detection
 [2025-12-02 18:00:53 IST] Improved threat detection
 [2025-12-02 11:14:51 IST] Documented malware IOCs
+[2025-12-02 11:00:20 IST] Tested Frida hook scripts
