@@ -9574,3 +9574,4 @@
 [2025-12-03 20:25:42 IST] Improved analysis toolchain
 [2025-12-03 07:16:48 IST] Updated IDA signatures
 [2025-12-03 14:59:46 IST] Documented RE notes
+[2025-12-03 19:06:37 IST] Updated YARA detection rules
