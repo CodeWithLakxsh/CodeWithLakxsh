@@ -714,3 +714,4 @@
 - 2025-11-27T17:53:11+05:30: Hardened CI pipeline
 - 2025-11-27T12:51:01+05:30: Updated docs
 - 2025-12-03T13:52:30+05:30: Hardened CI pipeline
+- 2025-12-03T22:01:12+05:30: Refactored config
