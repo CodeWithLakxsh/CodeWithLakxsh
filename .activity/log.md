@@ -9606,3 +9606,4 @@
 [2025-12-03 08:57:06 IST] Updated Drozer modules
 [2025-12-03 23:37:26 IST] Updated YARA detection rules
 [2025-12-03 20:54:20 IST] Updated Drozer modules
+[2025-12-03 18:49:40 IST] Improved sandbox configs
