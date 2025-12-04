@@ -898,3 +898,4 @@
 [2025-12-04 14:00:20 IST] Tested new Ghidra plugins
 [2025-12-04 20:50:44 IST] Practiced ARM disassembly
 [2025-12-04 15:24:46 IST] Documented malware IOCs
+[2025-12-04 07:06:09 IST] Documented RE workflow notes
