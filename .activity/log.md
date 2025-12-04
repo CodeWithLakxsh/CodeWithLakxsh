@@ -897,3 +897,4 @@
 [2025-12-04 06:32:35 IST] Updated YARA detection rules
 [2025-12-04 14:00:20 IST] Tested new Ghidra plugins
 [2025-12-04 20:50:44 IST] Practiced ARM disassembly
+[2025-12-04 15:24:46 IST] Documented malware IOCs
