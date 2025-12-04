@@ -911,3 +911,4 @@
 [2025-12-04 20:32:02 IST] Improved code analysis toolchain
 [2025-12-04 21:45:56 IST] Tested Frida hook scripts
 [2025-12-04 22:27:45 IST] Tested SQLMap tamper scripts
+[2025-12-04 20:00:07 IST] Added new Nmap scan profiles
