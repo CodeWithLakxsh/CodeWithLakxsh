@@ -896,3 +896,4 @@
 [2025-12-03 13:07:57 IST] Updated Burp Suite configs
 [2025-12-04 06:32:35 IST] Updated YARA detection rules
 [2025-12-04 14:00:20 IST] Tested new Ghidra plugins
+[2025-12-04 20:50:44 IST] Practiced ARM disassembly
