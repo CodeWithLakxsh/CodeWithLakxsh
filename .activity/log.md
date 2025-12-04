@@ -9635,3 +9635,4 @@
 [2025-12-04 12:13:51 IST] Reviewed binary diffs
 [2025-12-04 09:05:20 IST] Reviewed APK decompilation
 [2025-12-04 15:56:54 IST] Updated Nmap profiles
+[2025-12-04 18:27:47 IST] Documented malware IOCs
