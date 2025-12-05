@@ -925,3 +925,4 @@
 [2025-12-04 16:53:01 IST] Documented RE workflow notes
 [2025-12-05 14:02:28 IST] Reviewed binary diffing results
 [2025-12-05 14:16:57 IST] Reviewed binary diffing results
+[2025-12-05 18:15:38 IST] Practiced ARM disassembly
