@@ -9665,3 +9665,4 @@
 [2025-12-05 12:26:58 IST] Reviewed packet captures
 [2025-12-05 19:35:16 IST] Documented RE notes
 [2025-12-05 12:59:17 IST] Tested Ghidra plugins
+[2025-12-05 23:24:48 IST] Updated YARA detection rules
