@@ -9642,3 +9642,4 @@
 [2025-12-04 08:05:28 IST] Reviewed APK decompilation
 [2025-12-05 07:24:21 IST] Reviewed MobSF results
 [2025-12-05 16:57:57 IST] Reviewed APK decompilation
+[2025-12-05 08:26:32 IST] Documented malware IOCs
