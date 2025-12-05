@@ -9640,3 +9640,4 @@
 [2025-12-04 18:15:05 IST] Reviewed packet captures
 [2025-12-04 19:38:53 IST] Improved sandbox configs
 [2025-12-04 08:05:28 IST] Reviewed APK decompilation
+[2025-12-05 07:24:21 IST] Reviewed MobSF results
