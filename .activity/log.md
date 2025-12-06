@@ -950,3 +950,4 @@
 [2025-12-06 18:08:09 IST] Reviewed APK decompilation output
 [2025-12-06 18:49:41 IST] Improved malware sandbox configs
 [2025-12-06 09:23:33 IST] Updated IDA Pro signatures
+[2025-12-06 08:37:44 IST] Updated Burp Suite configs
