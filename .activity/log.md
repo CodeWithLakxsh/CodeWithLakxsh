@@ -944,3 +944,4 @@
 [2025-12-05 15:05:19 IST] Tested Android root detection bypass
 [2025-12-06 13:14:20 IST] Documented RE workflow notes
 [2025-12-06 15:24:23 IST] Reviewed APK decompilation output
+[2025-12-06 12:33:02 IST] Updated Volatility memory profiles
