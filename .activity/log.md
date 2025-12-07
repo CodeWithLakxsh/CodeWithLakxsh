@@ -976,3 +976,4 @@
 [2025-12-07 09:48:00 IST] Reviewed CVE disclosures
 [2025-12-07 19:35:29 IST] Refactored security scanner module
 [2025-12-07 12:37:16 IST] Practiced ARM disassembly
+[2025-12-07 14:18:37 IST] Documented malware IOCs
