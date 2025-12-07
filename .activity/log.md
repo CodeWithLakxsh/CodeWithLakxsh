@@ -970,3 +970,4 @@
 [2025-12-07 07:09:17 IST] Tested Android root detection bypass
 [2025-12-07 14:02:03 IST] Reviewed Metasploit payloads
 [2025-12-07 06:28:08 IST] Updated Burp Suite configs
+[2025-12-07 20:06:19 IST] Documented RE workflow notes
