@@ -9700,3 +9700,4 @@
 [2025-12-06 09:33:34 IST] Tested Objection scripts
 [2025-12-06 07:48:48 IST] Tested Frida hook scripts
 [2025-12-06 12:08:39 IST] Tested SQLMap scripts
+[2025-12-07 16:46:23 IST] Tested Aircrack configs
