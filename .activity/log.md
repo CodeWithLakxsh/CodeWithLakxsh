@@ -9734,3 +9734,4 @@
 [2025-12-08 20:02:23 IST] Documented malware IOCs
 [2025-12-08 08:23:23 IST] Updated IDA signatures
 [2025-12-08 19:26:15 IST] Improved sandbox configs
+[2025-12-08 22:17:30 IST] Updated YARA detection rules
