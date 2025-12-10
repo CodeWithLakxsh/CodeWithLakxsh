@@ -1066,3 +1066,4 @@
 [2025-12-10 12:04:46 IST] Reviewed network packet captures
 [2025-12-10 09:17:35 IST] Tested new OSINT techniques
 [2025-12-10 14:35:18 IST] Updated IDA Pro signatures
+[2025-12-10 11:21:40 IST] Documented malware IOCs
