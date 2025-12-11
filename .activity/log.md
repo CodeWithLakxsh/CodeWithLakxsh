@@ -9842,3 +9842,4 @@
 [2025-12-10 11:08:30 IST] Reviewed CVE disclosures
 [2025-12-10 16:47:08 IST] Documented malware IOCs
 [2025-12-10 12:55:29 IST] Tested Frida hook scripts
+[2025-12-11 22:04:18 IST] Reviewed binary diffs
