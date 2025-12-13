@@ -9903,3 +9903,4 @@
 [2025-12-13 09:29:43 IST] Improved Hashcat rules
 [2025-12-13 21:03:31 IST] Documented malware IOCs
 [2025-12-13 11:08:06 IST] Reviewed APK decompilation
+[2025-12-13 09:59:22 IST] Reviewed MobSF results
