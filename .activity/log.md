@@ -1122,3 +1122,4 @@
 [2025-12-13 11:54:06 IST] Tested Frida hook scripts
 [2025-12-13 09:29:59 IST] Tested Objection bypass scripts
 [2025-12-13 16:56:46 IST] Tested Objection bypass scripts
+[2025-12-13 18:05:21 IST] Improved threat detection pipeline
