@@ -9901,3 +9901,4 @@
 [2025-12-12 16:01:22 IST] Improved analysis toolchain
 [2025-12-12 06:20:40 IST] Updated Nmap profiles
 [2025-12-13 09:29:43 IST] Improved Hashcat rules
+[2025-12-13 21:03:31 IST] Documented malware IOCs
