@@ -1140,3 +1140,4 @@
 [2025-12-14 19:33:15 IST] Documented RE workflow notes
 [2025-12-14 07:15:19 IST] Updated exploit mitigation checks
 [2025-12-14 18:54:13 IST] Reviewed MobSF scan results
+[2025-12-14 22:43:59 IST] Documented malware IOCs
