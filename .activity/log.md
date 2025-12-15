@@ -9987,3 +9987,4 @@
 [2025-12-15 16:52:04 IST] Optimized recon scripts
 [2025-12-15 16:04:13 IST] Tested root detection bypass
 [2025-12-15 13:18:13 IST] Updated Drozer modules
+[2025-12-15 17:15:02 IST] Documented malware IOCs
