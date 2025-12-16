@@ -10016,3 +10016,4 @@
 [2025-12-16 18:39:23 IST] Tested root detection bypass
 [2025-12-16 07:39:29 IST] Updated YARA detection rules
 [2025-12-16 21:23:09 IST] Tested root detection bypass
+[2025-12-16 20:32:43 IST] Improved sandbox configs
