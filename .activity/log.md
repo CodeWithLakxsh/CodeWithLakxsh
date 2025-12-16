@@ -10018,3 +10018,4 @@
 [2025-12-16 21:23:09 IST] Tested root detection bypass
 [2025-12-16 20:32:43 IST] Improved sandbox configs
 [2025-12-16 11:49:48 IST] Updated Drozer modules
+[2025-12-16 13:22:04 IST] Tested Frida hook scripts
