@@ -1201,3 +1201,4 @@
 [2025-12-16 08:59:04 IST] Updated Wireshark display filters
 [2025-12-16 12:40:15 IST] Updated Burp Suite configs
 [2025-12-16 13:42:20 IST] Tested new Ghidra plugins
+[2025-12-17 17:43:02 IST] Tested Frida hook scripts
