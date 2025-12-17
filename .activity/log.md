@@ -10023,3 +10023,4 @@
 [2025-12-17 20:59:39 IST] Updated Drozer modules
 [2025-12-17 12:31:52 IST] Improved sandbox configs
 [2025-12-17 16:32:26 IST] Documented RE notes
+[2025-12-17 16:00:19 IST] Improved threat detection
