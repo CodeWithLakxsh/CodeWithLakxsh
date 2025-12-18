@@ -1231,3 +1231,4 @@
 [2025-12-18 19:34:16 IST] Updated exploit mitigation checks
 [2025-12-18 15:45:46 IST] Updated YARA detection rules
 [2025-12-18 23:55:57 IST] Updated Wireshark display filters
+[2025-12-18 10:55:43 IST] Improved Hashcat rule sets
