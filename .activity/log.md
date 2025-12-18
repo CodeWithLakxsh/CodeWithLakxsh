@@ -1225,3 +1225,4 @@
 [2025-12-17 18:13:57 IST] Updated exploit mitigation checks
 [2025-12-18 12:35:43 IST] Updated Volatility memory profiles
 [2025-12-18 23:39:55 IST] Updated Drozer modules
+[2025-12-18 14:02:36 IST] Updated YARA detection rules
