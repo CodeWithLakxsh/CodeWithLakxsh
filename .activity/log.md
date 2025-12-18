@@ -10067,3 +10067,4 @@
 [2025-12-18 12:58:51 IST] Reviewed APK decompilation
 [2025-12-18 15:11:24 IST] Updated IDA signatures
 [2025-12-18 16:11:05 IST] Improved analysis toolchain
+[2025-12-18 15:24:26 IST] Updated Burp Suite configs
