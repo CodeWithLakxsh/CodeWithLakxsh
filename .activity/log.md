@@ -1226,3 +1226,4 @@
 [2025-12-18 12:35:43 IST] Updated Volatility memory profiles
 [2025-12-18 23:39:55 IST] Updated Drozer modules
 [2025-12-18 14:02:36 IST] Updated YARA detection rules
+[2025-12-18 06:40:47 IST] Added new Nmap scan profiles
