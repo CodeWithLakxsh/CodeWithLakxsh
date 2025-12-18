@@ -10048,3 +10048,4 @@
 [2025-12-17 11:13:58 IST] Improved analysis toolchain
 [2025-12-18 12:39:08 IST] Updated IDA signatures
 [2025-12-18 13:36:56 IST] Tested Frida hook scripts
+[2025-12-18 08:00:46 IST] Documented malware IOCs
