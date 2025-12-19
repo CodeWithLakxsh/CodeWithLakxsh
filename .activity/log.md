@@ -10076,3 +10076,4 @@
 [2025-12-19 21:10:03 IST] Reviewed CVE disclosures
 [2025-12-19 11:44:58 IST] Documented malware IOCs
 [2025-12-19 20:48:55 IST] Updated exploit checks
+[2025-12-19 15:42:08 IST] Updated Volatility profiles
