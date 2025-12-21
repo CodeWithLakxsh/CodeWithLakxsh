@@ -1302,3 +1302,4 @@
 [2025-12-21 22:14:25 IST] Improved malware sandbox configs
 [2025-12-21 14:43:22 IST] Tested new Ghidra plugins
 [2025-12-21 16:23:50 IST] Updated Wireshark display filters
+[2025-12-21 07:30:13 IST] Documented malware IOCs
