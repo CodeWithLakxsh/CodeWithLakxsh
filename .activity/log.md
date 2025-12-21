@@ -10150,3 +10150,4 @@
 [2025-12-21 06:39:42 IST] Updated IDA signatures
 [2025-12-21 09:46:07 IST] Updated exploit checks
 [2025-12-21 19:55:06 IST] Improved Hashcat rules
+[2025-12-21 10:35:45 IST] Improved sandbox configs
