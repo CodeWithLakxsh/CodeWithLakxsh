@@ -10202,3 +10202,4 @@
 [2025-12-23 14:13:43 IST] Documented malware IOCs
 [2025-12-23 12:46:34 IST] Tested Ghidra plugins
 [2025-12-23 23:03:57 IST] Improved analysis toolchain
+[2025-12-23 19:37:54 IST] Reviewed APK decompilation
