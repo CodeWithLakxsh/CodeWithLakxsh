@@ -1372,3 +1372,4 @@
 [2025-12-24 21:22:35 IST] Improved malware sandbox configs
 [2025-12-24 16:26:04 IST] Updated Wireshark display filters
 [2025-12-24 19:44:28 IST] Tested Frida hook scripts
+[2025-12-24 19:33:00 IST] Tested new Ghidra plugins
