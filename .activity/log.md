@@ -1391,3 +1391,4 @@
 [2025-12-25 13:53:50 IST] Documented malware IOCs
 [2025-12-25 15:38:58 IST] Updated YARA detection rules
 [2025-12-25 08:13:10 IST] Reviewed CVE disclosures
+[2025-12-25 17:16:25 IST] Reviewed MobSF scan results
