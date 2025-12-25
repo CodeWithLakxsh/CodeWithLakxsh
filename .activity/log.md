@@ -1392,3 +1392,4 @@
 [2025-12-25 15:38:58 IST] Updated YARA detection rules
 [2025-12-25 08:13:10 IST] Reviewed CVE disclosures
 [2025-12-25 17:16:25 IST] Reviewed MobSF scan results
+[2025-12-25 19:19:26 IST] Updated Wireshark display filters
