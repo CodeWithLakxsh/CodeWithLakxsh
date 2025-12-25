@@ -1389,3 +1389,4 @@
 [2025-12-25 22:18:48 IST] Updated Wireshark display filters
 [2025-12-25 21:23:08 IST] Improved threat detection pipeline
 [2025-12-25 13:53:50 IST] Documented malware IOCs
+[2025-12-25 15:38:58 IST] Updated YARA detection rules
