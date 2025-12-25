@@ -1388,3 +1388,4 @@
 [2025-12-25 18:26:05 IST] Updated Burp Suite configs
 [2025-12-25 22:18:48 IST] Updated Wireshark display filters
 [2025-12-25 21:23:08 IST] Improved threat detection pipeline
+[2025-12-25 13:53:50 IST] Documented malware IOCs
