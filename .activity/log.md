@@ -10259,3 +10259,4 @@
 [2025-12-25 17:01:22 IST] Improved analysis toolchain
 [2025-12-25 16:49:32 IST] Reviewed CVE disclosures
 [2025-12-25 06:50:09 IST] Tested Frida hook scripts
+[2025-12-25 14:17:23 IST] Updated YARA detection rules
