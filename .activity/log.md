@@ -10245,3 +10245,4 @@
 [2025-12-25 12:09:09 IST] Documented malware IOCs
 [2025-12-25 11:02:54 IST] Practiced ARM disassembly
 [2025-12-25 08:06:36 IST] Tested Objection scripts
+[2025-12-25 10:51:59 IST] Tested Ghidra plugins
