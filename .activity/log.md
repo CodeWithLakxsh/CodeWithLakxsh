@@ -10267,3 +10267,4 @@
 [2025-12-25 22:09:48 IST] Improved threat detection
 [2025-12-25 15:03:30 IST] Tested Ghidra plugins
 [2025-12-25 09:01:17 IST] Updated IDA signatures
+[2025-12-26 18:12:36 IST] Documented RE notes
