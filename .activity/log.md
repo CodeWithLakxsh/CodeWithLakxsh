@@ -10273,3 +10273,4 @@
 [2025-12-26 09:50:38 IST] Updated YARA detection rules
 [2025-12-26 10:28:50 IST] Tested Frida hook scripts
 [2025-12-26 15:20:40 IST] Reviewed binary diffs
+[2025-12-26 08:59:19 IST] Improved Hashcat rules
