@@ -1424,3 +1424,4 @@
 [2025-12-26 20:19:33 IST] Tested Frida hook scripts
 [2025-12-26 19:50:36 IST] Improved malware sandbox configs
 [2025-12-27 09:53:33 IST] Added new Nmap scan profiles
+[2025-12-27 14:52:23 IST] Practiced ARM disassembly
