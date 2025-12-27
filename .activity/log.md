@@ -10313,3 +10313,4 @@
 [2025-12-27 18:34:30 IST] Tested Frida hook scripts
 [2025-12-27 06:05:51 IST] Tested OSINT techniques
 [2025-12-27 21:43:15 IST] Practiced ARM disassembly
+[2025-12-27 13:41:11 IST] Documented malware IOCs
