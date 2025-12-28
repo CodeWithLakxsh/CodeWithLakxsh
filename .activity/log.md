@@ -10339,3 +10339,4 @@
 [2025-12-28 16:28:12 IST] Updated IDA signatures
 [2025-12-28 22:24:12 IST] Tested Frida hook scripts
 [2025-12-28 23:34:35 IST] Optimized recon scripts
+[2025-12-28 15:09:46 IST] Updated exploit checks
