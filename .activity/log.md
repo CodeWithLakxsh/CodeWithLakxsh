@@ -1459,3 +1459,4 @@
 [2025-12-28 13:25:11 IST] Reviewed CVE disclosures
 [2025-12-28 17:47:15 IST] Updated Drozer modules
 [2025-12-28 06:44:02 IST] Improved code analysis toolchain
+[2025-12-28 06:36:04 IST] Documented malware IOCs
