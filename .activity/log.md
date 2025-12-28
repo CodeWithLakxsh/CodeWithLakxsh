@@ -10350,3 +10350,4 @@
 [2025-12-28 18:14:42 IST] Improved analysis toolchain
 [2025-12-28 14:20:16 IST] Tested Aircrack configs
 [2025-12-28 08:33:22 IST] Improved threat detection
+[2025-12-28 17:32:15 IST] Improved Hashcat rules
