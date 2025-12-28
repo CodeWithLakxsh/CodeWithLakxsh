@@ -278,3 +278,4 @@
 - 2025-12-27T08:30:34+05:30: Hardened CI pipeline
 - 2025-12-28T18:03:54+05:30: Updated docs
 - 2025-12-28T17:17:24+05:30: Refactored config
+- 2025-12-28T13:56:37+05:30: Security patch
