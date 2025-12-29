@@ -721,3 +721,4 @@
 - 2025-12-04T19:36:36+05:30: Updated docs
 - 2025-12-04T15:36:01+05:30: Security patch
 - 2025-12-25T19:05:15+05:30: Hardened CI pipeline
+- 2025-12-29T16:28:10+05:30: Hardened CI pipeline
