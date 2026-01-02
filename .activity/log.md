@@ -10477,3 +10477,4 @@
 [2026-01-02 13:11:23 IST] Updated YARA detection rules
 [2026-01-02 06:59:51 IST] Reviewed packet captures
 [2026-01-02 16:57:00 IST] Improved Hashcat rules
+[2026-01-02 16:26:38 IST] Updated IDA signatures
