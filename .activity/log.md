@@ -1597,3 +1597,4 @@
 [2026-01-03 11:21:58 IST] Improved threat detection pipeline
 [2026-01-03 07:19:04 IST] Updated YARA detection rules
 [2026-01-03 08:28:29 IST] Updated IDA Pro signatures
+[2026-01-03 06:07:36 IST] Improved Hashcat rule sets
