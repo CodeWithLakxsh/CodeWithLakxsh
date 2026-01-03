@@ -1596,3 +1596,4 @@
 [2026-01-03 15:25:11 IST] Reviewed APK decompilation output
 [2026-01-03 11:21:58 IST] Improved threat detection pipeline
 [2026-01-03 07:19:04 IST] Updated YARA detection rules
+[2026-01-03 08:28:29 IST] Updated IDA Pro signatures
