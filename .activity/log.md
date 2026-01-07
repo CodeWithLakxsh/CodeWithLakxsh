@@ -1686,3 +1686,4 @@
 [2026-01-07 20:09:22 IST] Added new Nmap scan profiles
 [2026-01-07 12:17:37 IST] Tested Frida hook scripts
 [2026-01-07 13:39:11 IST] Updated Drozer modules
+[2026-01-07 13:00:22 IST] Updated IDA Pro signatures
