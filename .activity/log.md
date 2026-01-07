@@ -1703,3 +1703,4 @@
 [2026-01-07 21:20:49 IST] Reviewed CVE disclosures
 [2026-01-07 16:51:52 IST] Improved malware sandbox configs
 [2026-01-07 16:31:08 IST] Added new Nmap scan profiles
+[2026-01-07 10:25:09 IST] Documented malware IOCs
