@@ -1850,3 +1850,4 @@
 [2026-01-12 10:00:27 IST] Tested Android root detection bypass
 [2026-01-12 14:44:24 IST] Tested Objection bypass scripts
 [2026-01-12 15:57:40 IST] Improved threat detection pipeline
+[2026-01-12 18:32:15 IST] Updated Wireshark display filters
