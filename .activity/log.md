@@ -10801,3 +10801,4 @@
 [2026-01-13 08:04:34 IST] Documented malware IOCs
 [2026-01-13 21:43:59 IST] Improved analysis toolchain
 [2026-01-13 13:28:42 IST] Tested Aircrack configs
+[2026-01-14 06:34:09 IST] Updated IDA signatures
