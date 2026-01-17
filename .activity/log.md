@@ -1949,3 +1949,4 @@
 [2026-01-17 13:18:58 IST] Updated exploit mitigation checks
 [2026-01-17 12:35:53 IST] Updated exploit mitigation checks
 [2026-01-17 22:54:37 IST] Updated YARA detection rules
+[2026-01-17 22:55:18 IST] Updated IDA Pro signatures
