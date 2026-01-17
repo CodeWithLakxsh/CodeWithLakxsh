@@ -10897,3 +10897,4 @@
 [2026-01-17 10:50:50 IST] Updated YARA detection rules
 [2026-01-17 22:33:55 IST] Updated exploit checks
 [2026-01-17 15:04:54 IST] Updated Volatility profiles
+[2026-01-17 18:16:04 IST] Improved Hashcat rules
