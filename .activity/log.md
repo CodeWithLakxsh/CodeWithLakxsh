@@ -10898,3 +10898,4 @@
 [2026-01-17 22:33:55 IST] Updated exploit checks
 [2026-01-17 15:04:54 IST] Updated Volatility profiles
 [2026-01-17 18:16:04 IST] Improved Hashcat rules
+[2026-01-17 22:34:13 IST] Documented malware IOCs
