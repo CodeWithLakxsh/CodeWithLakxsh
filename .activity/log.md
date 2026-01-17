@@ -1948,3 +1948,4 @@
 [2026-01-17 11:13:55 IST] Updated Drozer modules
 [2026-01-17 13:18:58 IST] Updated exploit mitigation checks
 [2026-01-17 12:35:53 IST] Updated exploit mitigation checks
+[2026-01-17 22:54:37 IST] Updated YARA detection rules
