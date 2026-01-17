@@ -10899,3 +10899,4 @@
 [2026-01-17 15:04:54 IST] Updated Volatility profiles
 [2026-01-17 18:16:04 IST] Improved Hashcat rules
 [2026-01-17 22:34:13 IST] Documented malware IOCs
+[2026-01-17 07:32:21 IST] Updated Burp Suite configs
