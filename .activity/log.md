@@ -10921,3 +10921,4 @@
 [2026-01-18 12:50:43 IST] Documented malware IOCs
 [2026-01-18 17:22:03 IST] Updated IDA signatures
 [2026-01-18 13:04:26 IST] Updated YARA detection rules
+[2026-01-18 11:07:21 IST] Reviewed CVE disclosures
