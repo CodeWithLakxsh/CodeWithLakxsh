@@ -1971,3 +1971,4 @@
 [2026-01-17 12:41:22 IST] Reviewed network packet captures
 [2026-01-17 23:06:39 IST] Updated YARA detection rules
 [2026-01-18 22:38:46 IST] Added new Nmap scan profiles
+[2026-01-18 10:25:46 IST] Updated IDA Pro signatures
