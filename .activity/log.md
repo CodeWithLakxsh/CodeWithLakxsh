@@ -11000,3 +11000,4 @@
 [2026-01-21 16:48:14 IST] Improved Hashcat rules
 [2026-01-21 15:54:17 IST] Tested SQLMap scripts
 [2026-01-21 12:51:43 IST] Documented RE notes
+[2026-01-21 14:24:46 IST] Documented malware IOCs
