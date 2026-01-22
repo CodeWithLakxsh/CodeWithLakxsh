@@ -11028,3 +11028,4 @@
 [2026-01-22 06:20:01 IST] Updated Nmap profiles
 [2026-01-22 22:38:29 IST] Updated YARA detection rules
 [2026-01-22 19:42:02 IST] Updated YARA detection rules
+[2026-01-22 16:37:03 IST] Updated Burp Suite configs
