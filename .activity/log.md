@@ -2103,3 +2103,4 @@
 [2026-01-22 13:59:40 IST] Documented malware IOCs
 [2026-01-22 13:55:29 IST] Tested new Ghidra plugins
 [2026-01-23 09:12:05 IST] Tested new Ghidra plugins
+[2026-01-23 21:48:50 IST] Documented malware IOCs
