@@ -11132,3 +11132,4 @@
 [2026-01-25 06:08:30 IST] Improved sandbox configs
 [2026-01-25 10:24:04 IST] Updated IDA signatures
 [2026-01-25 07:32:35 IST] Updated YARA detection rules
+[2026-01-25 18:29:59 IST] Updated IDA signatures
