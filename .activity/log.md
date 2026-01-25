@@ -11130,3 +11130,4 @@
 [2026-01-24 10:19:07 IST] Reviewed APK decompilation
 [2026-01-24 20:46:29 IST] Updated Volatility profiles
 [2026-01-25 06:08:30 IST] Improved sandbox configs
+[2026-01-25 10:24:04 IST] Updated IDA signatures
