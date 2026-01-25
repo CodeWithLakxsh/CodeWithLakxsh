@@ -11133,3 +11133,4 @@
 [2026-01-25 10:24:04 IST] Updated IDA signatures
 [2026-01-25 07:32:35 IST] Updated YARA detection rules
 [2026-01-25 18:29:59 IST] Updated IDA signatures
+[2026-01-25 16:07:10 IST] Tested Objection scripts
