@@ -11274,3 +11274,4 @@
 [2026-01-29 23:58:34 IST] Improved sandbox configs
 [2026-01-29 13:06:18 IST] Updated Nmap profiles
 [2026-01-29 14:00:31 IST] Updated IDA signatures
+[2026-01-30 14:43:36 IST] Updated Burp Suite configs
