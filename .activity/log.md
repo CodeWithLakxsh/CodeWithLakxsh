@@ -11315,3 +11315,4 @@
 [2026-01-31 20:15:06 IST] Reviewed MobSF results
 [2026-01-31 10:49:57 IST] Improved Hashcat rules
 [2026-01-31 23:09:31 IST] Improved threat detection
+[2026-01-31 12:10:04 IST] Updated IDA signatures
