@@ -11390,3 +11390,4 @@
 [2026-02-02 17:47:13 IST] Documented malware IOCs
 [2026-02-02 07:43:57 IST] Tested Frida hook scripts
 [2026-02-02 11:17:52 IST] Practiced ARM disassembly
+[2026-02-02 22:11:44 IST] Tested Aircrack configs
