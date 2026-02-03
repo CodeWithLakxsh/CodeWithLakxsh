@@ -11437,3 +11437,4 @@
 [2026-02-03 23:25:12 IST] Improved sandbox configs
 [2026-02-03 12:45:32 IST] Documented malware IOCs
 [2026-02-03 21:23:36 IST] Tested Objection scripts
+[2026-02-03 22:58:56 IST] Tested Ghidra plugins
