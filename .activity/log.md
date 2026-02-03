@@ -11404,3 +11404,4 @@
 [2026-02-02 06:56:26 IST] Tested Frida hook scripts
 [2026-02-02 10:58:39 IST] Updated IDA signatures
 [2026-02-02 06:50:26 IST] Tested Objection scripts
+[2026-02-03 09:40:48 IST] Documented malware IOCs
