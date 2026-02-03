@@ -11420,3 +11420,4 @@
 [2026-02-03 09:08:51 IST] Reviewed CVE disclosures
 [2026-02-03 07:20:20 IST] Reviewed MobSF results
 [2026-02-03 14:57:16 IST] Tested Frida hook scripts
+[2026-02-03 20:52:53 IST] Documented malware IOCs
