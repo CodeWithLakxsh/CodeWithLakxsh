@@ -11475,3 +11475,4 @@
 [2026-02-05 16:16:28 IST] Updated IDA signatures
 [2026-02-05 22:05:44 IST] Practiced ARM disassembly
 [2026-02-05 07:18:10 IST] Tested OSINT techniques
+[2026-02-05 07:25:43 IST] Tested Frida hook scripts
