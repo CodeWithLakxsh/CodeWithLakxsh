@@ -11591,3 +11591,4 @@
 [2026-02-08 18:26:35 IST] Updated exploit checks
 [2026-02-08 18:10:05 IST] Updated IDA signatures
 [2026-02-08 14:04:14 IST] Improved sandbox configs
+[2026-02-08 11:09:17 IST] Updated IDA signatures
