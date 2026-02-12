@@ -2608,3 +2608,4 @@
 [2026-02-12 12:15:07 IST] Practiced ARM disassembly
 [2026-02-12 14:13:46 IST] Updated IDA Pro signatures
 [2026-02-12 11:32:57 IST] Documented RE workflow notes
+[2026-02-12 13:40:53 IST] Documented malware IOCs
