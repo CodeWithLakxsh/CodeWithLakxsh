@@ -2631,3 +2631,4 @@
 [2026-02-13 19:49:52 IST] Practiced ARM disassembly
 [2026-02-13 20:20:29 IST] Documented RE workflow notes
 [2026-02-13 08:17:55 IST] Documented malware IOCs
+[2026-02-13 18:33:21 IST] Tested Frida hook scripts
