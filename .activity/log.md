@@ -11804,3 +11804,4 @@
 [2026-02-15 14:10:21 IST] Improved sandbox configs
 [2026-02-15 15:27:48 IST] Updated Drozer modules
 [2026-02-15 13:20:49 IST] Documented malware IOCs
+[2026-02-15 21:06:33 IST] Updated YARA detection rules
