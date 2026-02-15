@@ -11810,3 +11810,4 @@
 [2026-02-15 17:19:33 IST] Improved Hashcat rules
 [2026-02-15 15:46:34 IST] Documented RE notes
 [2026-02-15 17:20:10 IST] Improved Hashcat rules
+[2026-02-15 15:04:40 IST] Updated Burp Suite configs
