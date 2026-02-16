@@ -2712,3 +2712,4 @@
 [2026-02-16 23:58:41 IST] Documented malware IOCs
 [2026-02-16 12:47:07 IST] Added new Nmap scan profiles
 [2026-02-16 07:09:23 IST] Improved malware sandbox configs
+[2026-02-16 14:28:03 IST] Updated Wireshark display filters
