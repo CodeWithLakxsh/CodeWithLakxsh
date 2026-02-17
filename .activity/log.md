@@ -11882,3 +11882,4 @@
 [2026-02-17 12:40:37 IST] Documented malware IOCs
 [2026-02-17 16:42:29 IST] Updated Volatility profiles
 [2026-02-17 19:25:27 IST] Tested Ghidra plugins
+[2026-02-17 10:17:29 IST] Updated YARA detection rules
