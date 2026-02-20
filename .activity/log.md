@@ -2799,3 +2799,4 @@
 [2026-02-20 19:39:18 IST] Updated IDA Pro signatures
 [2026-02-20 14:06:59 IST] Updated Volatility memory profiles
 [2026-02-20 10:10:03 IST] Reviewed MobSF scan results
+[2026-02-20 13:36:45 IST] Documented malware IOCs
