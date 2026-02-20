@@ -2797,3 +2797,4 @@
 [2026-02-20 20:40:23 IST] Updated IDA Pro signatures
 [2026-02-20 06:09:39 IST] Documented malware IOCs
 [2026-02-20 19:39:18 IST] Updated IDA Pro signatures
+[2026-02-20 14:06:59 IST] Updated Volatility memory profiles
