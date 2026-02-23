@@ -2864,3 +2864,4 @@
 [2026-02-23 19:09:39 IST] Updated Volatility memory profiles
 [2026-02-23 18:49:16 IST] Improved Hashcat rule sets
 [2026-02-23 23:07:19 IST] Tested Frida hook scripts
+[2026-02-23 09:14:01 IST] Updated YARA detection rules
