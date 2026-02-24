@@ -367,3 +367,4 @@
 - 2026-02-20T19:41:39+05:30: Hardened CI pipeline
 - 2026-02-24T13:21:19+05:30: Hardened CI pipeline
 - 2026-02-24T13:28:45+05:30: Hardened CI pipeline
+- 2026-02-24T16:16:48+05:30: Updated docs
