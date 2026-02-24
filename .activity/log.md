@@ -12054,3 +12054,4 @@
 [2026-02-24 15:51:45 IST] Updated Nmap profiles
 [2026-02-24 10:05:29 IST] Updated Nmap profiles
 [2026-02-24 13:11:49 IST] Updated IDA signatures
+[2026-02-24 07:00:03 IST] Documented malware IOCs
