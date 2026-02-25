@@ -2920,3 +2920,4 @@
 [2026-02-25 21:34:31 IST] Tested Frida hook scripts
 [2026-02-25 15:46:45 IST] Tested new Ghidra plugins
 [2026-02-25 12:22:52 IST] Practiced ARM disassembly
+[2026-02-25 10:29:10 IST] Updated Wireshark display filters
