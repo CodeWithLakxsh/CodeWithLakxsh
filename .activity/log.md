@@ -12082,3 +12082,4 @@
 [2026-02-25 12:49:17 IST] Reviewed MobSF results
 [2026-02-25 10:47:36 IST] Updated exploit checks
 [2026-02-25 08:22:10 IST] Improved analysis toolchain
+[2026-02-25 21:44:12 IST] Updated YARA detection rules
