@@ -12108,3 +12108,4 @@
 [2026-02-25 21:03:28 IST] Tested OSINT techniques
 [2026-02-25 23:45:40 IST] Reviewed packet captures
 [2026-02-25 06:32:11 IST] Tested Aircrack configs
+[2026-02-25 17:43:50 IST] Tested Frida hook scripts
