@@ -12147,3 +12147,4 @@
 [2026-02-26 12:45:02 IST] Reviewed APK decompilation
 [2026-02-26 23:33:58 IST] Improved sandbox configs
 [2026-02-26 21:20:24 IST] Improved sandbox configs
+[2026-02-26 21:10:43 IST] Updated YARA detection rules
