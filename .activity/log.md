@@ -2927,3 +2927,4 @@
 [2026-02-26 10:47:17 IST] Tested SQLMap tamper scripts
 [2026-02-26 16:14:42 IST] Added new Nmap scan profiles
 [2026-02-26 20:42:24 IST] Improved threat detection pipeline
+[2026-02-26 13:13:43 IST] Updated IDA Pro signatures
