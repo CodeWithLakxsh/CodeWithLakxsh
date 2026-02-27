@@ -12159,3 +12159,4 @@
 [2026-02-27 11:12:32 IST] Updated exploit checks
 [2026-02-27 06:07:09 IST] Reviewed binary diffs
 [2026-02-27 10:29:32 IST] Documented RE notes
+[2026-02-27 11:38:48 IST] Tested Frida hook scripts
