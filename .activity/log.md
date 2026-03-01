@@ -12214,3 +12214,4 @@
 [2026-03-01 13:13:16 IST] Improved threat detection
 [2026-03-01 13:27:50 IST] Updated Drozer modules
 [2026-03-01 22:43:41 IST] Tested Frida hook scripts
+[2026-03-01 21:49:46 IST] Improved Hashcat rules
