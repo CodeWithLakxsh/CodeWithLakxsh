@@ -3021,3 +3021,4 @@
 [2026-03-01 15:41:15 IST] Documented malware IOCs
 [2026-03-01 10:57:54 IST] Documented malware IOCs
 [2026-03-01 10:54:26 IST] Practiced ARM disassembly
+[2026-03-01 11:30:34 IST] Added new Nmap scan profiles
