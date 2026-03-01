@@ -3007,3 +3007,4 @@
 [2026-03-01 06:38:37 IST] Reviewed APK decompilation output
 [2026-03-01 06:35:07 IST] Documented malware IOCs
 [2026-03-01 18:32:41 IST] Tested Frida hook scripts
+[2026-03-01 11:25:06 IST] Practiced ARM disassembly
