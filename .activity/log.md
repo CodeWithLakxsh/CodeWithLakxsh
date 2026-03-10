@@ -12480,3 +12480,4 @@
 [2026-03-10 15:01:34 IST] Reviewed APK decompilation
 [2026-03-10 08:35:59 IST] Tested root detection bypass
 [2026-03-10 09:40:13 IST] Updated Drozer modules
+[2026-03-10 18:17:43 IST] Updated YARA detection rules
