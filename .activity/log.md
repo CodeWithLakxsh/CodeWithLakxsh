@@ -12488,3 +12488,4 @@
 [2026-03-10 09:02:36 IST] Improved Hashcat rules
 [2026-03-10 08:41:09 IST] Tested root detection bypass
 [2026-03-10 08:25:50 IST] Documented RE notes
+[2026-03-10 22:53:39 IST] Updated YARA detection rules
