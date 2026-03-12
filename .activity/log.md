@@ -12549,3 +12549,4 @@
 [2026-03-12 18:32:34 IST] Tested root detection bypass
 [2026-03-12 21:51:38 IST] Improved sandbox configs
 [2026-03-12 13:39:46 IST] Updated Volatility profiles
+[2026-03-12 23:32:07 IST] Updated YARA detection rules
