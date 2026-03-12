@@ -12551,3 +12551,4 @@
 [2026-03-12 13:39:46 IST] Updated Volatility profiles
 [2026-03-12 23:32:07 IST] Updated YARA detection rules
 [2026-03-12 13:19:06 IST] Updated Nmap profiles
+[2026-03-12 22:52:06 IST] Improved Hashcat rules
