@@ -12575,3 +12575,4 @@
 [2026-03-12 21:21:44 IST] Improved threat detection
 [2026-03-12 07:05:35 IST] Tested root detection bypass
 [2026-03-13 09:36:05 IST] Updated Drozer modules
+[2026-03-13 23:43:01 IST] Updated YARA detection rules
