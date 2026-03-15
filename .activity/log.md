@@ -3337,3 +3337,4 @@
 [2026-03-15 12:26:13 IST] Tested Android root detection bypass
 [2026-03-15 10:18:25 IST] Tested Frida hook scripts
 [2026-03-15 08:14:08 IST] Updated YARA detection rules
+[2026-03-15 07:46:09 IST] Documented malware IOCs
