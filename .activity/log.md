@@ -3374,3 +3374,4 @@
 [2026-03-16 18:27:12 IST] Reviewed Metasploit payloads
 [2026-03-16 12:11:58 IST] Reviewed APK decompilation output
 [2026-03-16 09:06:34 IST] Tested Frida hook scripts
+[2026-03-16 16:57:48 IST] Documented malware IOCs
