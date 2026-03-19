@@ -12750,3 +12750,4 @@
 [2026-03-19 14:36:19 IST] Updated YARA detection rules
 [2026-03-19 19:05:50 IST] Updated Burp Suite configs
 [2026-03-19 11:22:45 IST] Updated Nmap profiles
+[2026-03-19 17:37:53 IST] Updated IDA signatures
