@@ -3531,3 +3531,4 @@
 [2026-03-23 23:52:37 IST] Added new Nmap scan profiles
 [2026-03-23 07:05:41 IST] Improved Hashcat rule sets
 [2026-03-23 12:39:53 IST] Improved malware sandbox configs
+[2026-03-23 18:08:51 IST] Updated YARA detection rules
