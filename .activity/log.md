@@ -3528,3 +3528,4 @@
 [2026-03-22 23:11:02 IST] Reviewed APK decompilation output
 [2026-03-23 14:06:46 IST] Improved malware sandbox configs
 [2026-03-23 16:54:19 IST] Improved malware sandbox configs
+[2026-03-23 23:52:37 IST] Added new Nmap scan profiles
