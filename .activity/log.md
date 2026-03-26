@@ -3638,3 +3638,4 @@
 [2026-03-26 10:33:32 IST] Optimized recon automation scripts
 [2026-03-26 19:49:37 IST] Documented malware IOCs
 [2026-03-26 21:53:45 IST] Updated Wireshark display filters
+[2026-03-26 13:07:41 IST] Added new Nmap scan profiles
