@@ -12977,3 +12977,4 @@
 [2026-03-27 13:21:11 IST] Tested Aircrack configs
 [2026-03-27 12:59:53 IST] Practiced ARM disassembly
 [2026-03-27 13:16:51 IST] Documented RE notes
+[2026-03-27 15:41:27 IST] Documented malware IOCs
