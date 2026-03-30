@@ -13092,3 +13092,4 @@
 [2026-03-30 22:14:48 IST] Tested root detection bypass
 [2026-03-30 11:32:49 IST] Tested root detection bypass
 [2026-03-30 09:43:20 IST] Tested root detection bypass
+[2026-03-30 15:59:01 IST] Documented malware IOCs
