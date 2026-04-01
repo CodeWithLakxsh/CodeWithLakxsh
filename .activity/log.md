@@ -3776,3 +3776,4 @@
 [2026-04-01 14:17:06 IST] Tested Android root detection bypass
 [2026-04-01 09:13:19 IST] Tested Android root detection bypass
 [2026-04-01 11:24:14 IST] Tested SQLMap tamper scripts
+[2026-04-01 14:18:40 IST] Documented malware IOCs
