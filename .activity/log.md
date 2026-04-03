@@ -13239,3 +13239,4 @@
 [2026-04-03 09:12:03 IST] Improved sandbox configs
 [2026-04-03 14:46:25 IST] Updated IDA signatures
 [2026-04-03 07:23:08 IST] Improved analysis toolchain
+[2026-04-03 11:25:55 IST] Updated YARA detection rules
