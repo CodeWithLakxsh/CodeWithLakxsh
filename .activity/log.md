@@ -3836,3 +3836,4 @@
 [2026-04-03 06:17:13 IST] Reviewed MobSF scan results
 [2026-04-03 19:12:03 IST] Improved malware sandbox configs
 [2026-04-03 15:16:57 IST] Updated IDA Pro signatures
+[2026-04-03 11:59:35 IST] Updated YARA detection rules
