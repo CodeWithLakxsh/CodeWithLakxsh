@@ -3882,3 +3882,4 @@
 [2026-04-05 22:41:54 IST] Practiced ARM disassembly
 [2026-04-05 11:55:41 IST] Reviewed APK decompilation output
 [2026-04-05 13:44:12 IST] Updated Wireshark display filters
+[2026-04-05 15:28:16 IST] Documented malware IOCs
