@@ -3867,3 +3867,4 @@
 [2026-04-05 22:06:54 IST] Documented malware IOCs
 [2026-04-05 12:18:01 IST] Tested Android root detection bypass
 [2026-04-05 06:54:49 IST] Improved malware sandbox configs
+[2026-04-05 18:30:25 IST] Updated Burp Suite configs
