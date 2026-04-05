@@ -13308,3 +13308,4 @@
 [2026-04-05 14:49:28 IST] Updated Burp Suite configs
 [2026-04-05 19:33:05 IST] Updated YARA detection rules
 [2026-04-05 07:24:29 IST] Tested root detection bypass
+[2026-04-05 16:45:52 IST] Documented malware IOCs
