@@ -3943,3 +3943,4 @@
 [2026-04-07 06:55:11 IST] Updated Drozer modules
 [2026-04-07 21:07:17 IST] Updated Burp Suite configs
 [2026-04-07 17:33:16 IST] Updated IDA Pro signatures
+[2026-04-07 23:53:16 IST] Added new Nmap scan profiles
