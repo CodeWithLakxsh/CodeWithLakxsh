@@ -13384,3 +13384,4 @@
 [2026-04-07 06:31:30 IST] Tested root detection bypass
 [2026-04-07 14:00:43 IST] Documented malware IOCs
 [2026-04-07 06:59:06 IST] Tested Frida hook scripts
+[2026-04-08 08:59:20 IST] Updated Volatility profiles
