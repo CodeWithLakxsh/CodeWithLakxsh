@@ -13469,3 +13469,4 @@
 [2026-04-10 09:18:33 IST] Reviewed APK decompilation
 [2026-04-10 19:09:44 IST] Tested Frida hook scripts
 [2026-04-10 07:42:37 IST] Updated Burp Suite configs
+[2026-04-10 19:32:15 IST] Documented malware IOCs
