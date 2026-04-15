@@ -4142,3 +4142,4 @@
 [2026-04-15 08:13:20 IST] Updated Volatility memory profiles
 [2026-04-15 13:54:14 IST] Improved Hashcat rule sets
 [2026-04-15 23:38:53 IST] Updated Drozer modules
+[2026-04-15 23:25:35 IST] Updated YARA detection rules
