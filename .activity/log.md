@@ -4172,3 +4172,4 @@
 [2026-04-16 07:56:31 IST] Improved Hashcat rule sets
 [2026-04-17 18:37:24 IST] Improved Hashcat rule sets
 [2026-04-17 09:27:03 IST] Documented malware IOCs
+[2026-04-17 13:46:50 IST] Added new Nmap scan profiles
