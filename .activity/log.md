@@ -4404,3 +4404,4 @@
 [2026-04-26 12:07:38 IST] Updated YARA detection rules
 [2026-04-26 14:32:24 IST] Reviewed network packet captures
 [2026-04-26 15:38:41 IST] Updated Burp Suite configs
+[2026-04-26 19:19:01 IST] Updated IDA Pro signatures
