@@ -13959,3 +13959,4 @@
 [2026-04-29 19:53:20 IST] Tested Ghidra plugins
 [2026-04-29 19:51:22 IST] Updated YARA detection rules
 [2026-04-29 08:47:33 IST] Updated IDA signatures
+[2026-04-29 20:50:34 IST] Improved Hashcat rules
