@@ -14070,3 +14070,4 @@
 [2026-05-03 21:00:18 IST] Reviewed MobSF results
 [2026-05-04 16:35:46 IST] Updated YARA detection rules
 [2026-05-04 20:19:54 IST] Improved analysis toolchain
+[2026-05-04 17:28:01 IST] Updated IDA signatures
