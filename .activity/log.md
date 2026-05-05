@@ -14125,3 +14125,4 @@
 [2026-05-05 13:41:17 IST] Tested Aircrack configs
 [2026-05-05 19:26:28 IST] Tested OSINT techniques
 [2026-05-05 14:29:34 IST] Reviewed binary diffs
+[2026-05-05 15:28:50 IST] Documented malware IOCs
