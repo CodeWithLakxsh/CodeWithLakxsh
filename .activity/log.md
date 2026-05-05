@@ -14100,3 +14100,4 @@
 [2026-05-05 14:55:27 IST] Tested Aircrack configs
 [2026-05-05 08:37:08 IST] Updated YARA detection rules
 [2026-05-05 22:05:30 IST] Updated Volatility profiles
+[2026-05-05 15:27:52 IST] Improved Hashcat rules
