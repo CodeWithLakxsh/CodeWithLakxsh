@@ -14149,3 +14149,4 @@
 [2026-05-06 21:07:13 IST] Updated IDA signatures
 [2026-05-06 07:56:57 IST] Tested OSINT techniques
 [2026-05-06 09:25:57 IST] Tested Ghidra plugins
+[2026-05-06 18:30:11 IST] Tested Aircrack configs
