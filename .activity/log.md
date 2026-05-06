@@ -14142,3 +14142,4 @@
 [2026-05-06 16:52:05 IST] Reviewed CVE disclosures
 [2026-05-06 16:10:17 IST] Tested Aircrack configs
 [2026-05-06 11:54:45 IST] Reviewed CVE disclosures
+[2026-05-06 09:13:25 IST] Improved Hashcat rules
