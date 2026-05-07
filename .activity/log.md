@@ -4654,3 +4654,4 @@
 [2026-05-07 13:06:37 IST] Documented malware IOCs
 [2026-05-07 11:13:18 IST] Reviewed binary diffing results
 [2026-05-07 18:31:48 IST] Added new Nmap scan profiles
+[2026-05-07 20:41:33 IST] Updated YARA detection rules
