@@ -14267,3 +14267,4 @@
 [2026-05-09 17:01:26 IST] Tested Ghidra plugins
 [2026-05-09 12:59:02 IST] Tested Frida hook scripts
 [2026-05-09 20:00:14 IST] Improved sandbox configs
+[2026-05-09 12:43:13 IST] Improved Hashcat rules
