@@ -14392,3 +14392,4 @@
 [2026-05-14 23:37:00 IST] Updated Drozer modules
 [2026-05-14 15:54:46 IST] Updated Drozer modules
 [2026-05-14 22:02:29 IST] Updated exploit checks
+[2026-05-14 22:01:41 IST] Updated YARA detection rules
