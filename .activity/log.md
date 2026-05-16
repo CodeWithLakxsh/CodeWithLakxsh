@@ -14459,3 +14459,4 @@
 [2026-05-16 06:58:32 IST] Reviewed CVE disclosures
 [2026-05-16 23:36:27 IST] Updated YARA detection rules
 [2026-05-16 22:32:04 IST] Updated exploit checks
+[2026-05-16 06:30:21 IST] Updated Nmap profiles
