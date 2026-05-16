@@ -491,3 +491,4 @@
 - 2026-05-05T11:16:03+05:30: Security patch
 - 2026-05-10T20:03:39+05:30: Security patch
 - 2026-05-16T22:07:59+05:30: Updated docs
+- 2026-05-16T14:12:05+05:30: Hardened CI pipeline
