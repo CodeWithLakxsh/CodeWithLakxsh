@@ -14573,3 +14573,4 @@
 [2026-05-19 23:26:20 IST] Reviewed APK decompilation
 [2026-05-19 16:18:45 IST] Improved sandbox configs
 [2026-05-19 13:42:47 IST] Updated Volatility profiles
+[2026-05-19 22:05:08 IST] Updated YARA detection rules
