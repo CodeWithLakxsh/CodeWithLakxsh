@@ -14583,3 +14583,4 @@
 [2026-05-19 17:02:41 IST] Documented malware IOCs
 [2026-05-20 19:35:06 IST] Improved Hashcat rules
 [2026-05-20 12:14:56 IST] Updated YARA detection rules
+[2026-05-20 06:21:13 IST] Tested Objection scripts
