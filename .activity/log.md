@@ -14600,3 +14600,4 @@
 [2026-05-20 09:20:43 IST] Updated exploit checks
 [2026-05-20 16:38:56 IST] Updated YARA detection rules
 [2026-05-20 19:59:54 IST] Updated Nmap profiles
+[2026-05-20 13:29:34 IST] Updated Burp Suite configs
