@@ -14582,3 +14582,4 @@
 [2026-05-19 23:12:35 IST] Optimized recon scripts
 [2026-05-19 17:02:41 IST] Documented malware IOCs
 [2026-05-20 19:35:06 IST] Improved Hashcat rules
+[2026-05-20 12:14:56 IST] Updated YARA detection rules
