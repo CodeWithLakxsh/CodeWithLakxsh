@@ -14598,3 +14598,4 @@
 [2026-05-20 17:23:42 IST] Improved Hashcat rules
 [2026-05-20 10:30:34 IST] Tested SQLMap scripts
 [2026-05-20 09:20:43 IST] Updated exploit checks
+[2026-05-20 16:38:56 IST] Updated YARA detection rules
