@@ -14624,3 +14624,4 @@
 [2026-05-21 06:25:24 IST] Tested root detection bypass
 [2026-05-21 19:52:14 IST] Improved Hashcat rules
 [2026-05-21 10:03:59 IST] Improved Hashcat rules
+[2026-05-21 18:04:04 IST] Improved sandbox configs
