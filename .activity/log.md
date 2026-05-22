@@ -14648,3 +14648,4 @@
 [2026-05-22 17:08:51 IST] Improved threat detection
 [2026-05-22 17:23:20 IST] Improved analysis toolchain
 [2026-05-22 15:34:00 IST] Updated IDA signatures
+[2026-05-22 13:22:56 IST] Updated Drozer modules
