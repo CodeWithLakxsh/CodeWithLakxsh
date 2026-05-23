@@ -4985,3 +4985,4 @@
 [2026-05-23 21:02:32 IST] Updated IDA Pro signatures
 [2026-05-23 16:56:13 IST] Improved Hashcat rule sets
 [2026-05-23 16:29:18 IST] Tested Android root detection bypass
+[2026-05-23 17:03:11 IST] Added new Nmap scan profiles
