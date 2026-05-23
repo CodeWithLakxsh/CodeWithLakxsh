@@ -4974,3 +4974,4 @@
 [2026-05-23 21:35:06 IST] Documented malware IOCs
 [2026-05-23 13:06:28 IST] Updated YARA detection rules
 [2026-05-23 22:31:29 IST] Tested Android root detection bypass
+[2026-05-23 18:18:40 IST] Improved Hashcat rule sets
