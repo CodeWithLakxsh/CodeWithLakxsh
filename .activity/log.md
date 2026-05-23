@@ -4978,3 +4978,4 @@
 [2026-05-23 06:45:43 IST] Reviewed binary diffing results
 [2026-05-23 15:54:55 IST] Reviewed network packet captures
 [2026-05-23 15:59:33 IST] Improved malware sandbox configs
+[2026-05-23 10:32:29 IST] Documented malware IOCs
