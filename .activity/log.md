@@ -14699,3 +14699,4 @@
 [2026-05-23 09:37:12 IST] Documented malware IOCs
 [2026-05-23 13:12:00 IST] Updated Nmap profiles
 [2026-05-23 12:40:32 IST] Reviewed packet captures
+[2026-05-23 10:26:47 IST] Updated IDA signatures
