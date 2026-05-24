@@ -14733,3 +14733,4 @@
 [2026-05-24 17:03:08 IST] Reviewed APK decompilation
 [2026-05-24 14:53:03 IST] Improved sandbox configs
 [2026-05-24 06:47:59 IST] Improved sandbox configs
+[2026-05-24 15:27:15 IST] Updated Nmap profiles
