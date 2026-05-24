@@ -14749,3 +14749,4 @@
 [2026-05-24 07:44:05 IST] Updated Nmap profiles
 [2026-05-24 11:05:35 IST] Tested root detection bypass
 [2026-05-24 18:30:30 IST] Updated YARA detection rules
+[2026-05-24 14:15:08 IST] Documented malware IOCs
