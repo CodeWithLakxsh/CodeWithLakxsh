@@ -14781,3 +14781,4 @@
 [2026-05-25 09:40:28 IST] Improved sandbox configs
 [2026-05-25 15:17:05 IST] Tested root detection bypass
 [2026-05-25 09:52:45 IST] Improved analysis toolchain
+[2026-05-25 22:17:50 IST] Improved Hashcat rules
