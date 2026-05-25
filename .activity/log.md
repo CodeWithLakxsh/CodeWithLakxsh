@@ -5024,3 +5024,4 @@
 [2026-05-25 19:23:23 IST] Refactored security scanner module
 [2026-05-25 16:45:20 IST] Updated Drozer modules
 [2026-05-25 12:32:08 IST] Tested Frida hook scripts
+[2026-05-25 21:05:57 IST] Updated IDA Pro signatures
