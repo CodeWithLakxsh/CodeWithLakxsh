@@ -14821,3 +14821,4 @@
 [2026-05-27 23:52:18 IST] Tested OSINT techniques
 [2026-05-27 20:54:11 IST] Improved Hashcat rules
 [2026-05-27 20:36:12 IST] Updated IDA signatures
+[2026-05-27 13:14:12 IST] Updated YARA detection rules
