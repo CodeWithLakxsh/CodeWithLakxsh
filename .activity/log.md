@@ -14822,3 +14822,4 @@
 [2026-05-27 20:54:11 IST] Improved Hashcat rules
 [2026-05-27 20:36:12 IST] Updated IDA signatures
 [2026-05-27 13:14:12 IST] Updated YARA detection rules
+[2026-05-27 14:50:00 IST] Updated IDA signatures
