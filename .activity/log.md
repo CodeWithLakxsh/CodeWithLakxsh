@@ -5068,3 +5068,4 @@
 [2026-05-27 15:35:02 IST] Documented malware IOCs
 [2026-05-27 23:05:31 IST] Updated Wireshark display filters
 [2026-05-27 18:08:44 IST] Practiced ARM disassembly
+[2026-05-27 14:43:38 IST] Tested Android root detection bypass
