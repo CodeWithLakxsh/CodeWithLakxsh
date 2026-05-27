@@ -506,3 +506,4 @@
 - 2026-05-22T12:18:33+05:30: Updated docs
 - 2026-05-22T21:10:08+05:30: Updated docs
 - 2026-05-22T18:39:24+05:30: Hardened CI pipeline
+- 2026-05-27T09:04:27+05:30: Refactored config
