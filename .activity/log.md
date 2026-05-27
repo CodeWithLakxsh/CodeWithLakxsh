@@ -14833,3 +14833,4 @@
 [2026-05-27 09:27:18 IST] Tested Ghidra plugins
 [2026-05-27 19:42:35 IST] Tested Frida hook scripts
 [2026-05-27 16:12:25 IST] Tested Objection scripts
+[2026-05-27 16:33:14 IST] Tested Objection scripts
