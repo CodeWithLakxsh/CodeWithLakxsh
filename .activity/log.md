@@ -14875,3 +14875,4 @@
 [2026-05-28 12:25:40 IST] Reviewed packet captures
 [2026-05-28 22:54:36 IST] Updated Nmap profiles
 [2026-05-28 10:09:47 IST] Improved sandbox configs
+[2026-05-28 20:27:07 IST] Updated YARA detection rules
