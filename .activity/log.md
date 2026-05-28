@@ -14848,3 +14848,4 @@
 [2026-05-27 21:40:07 IST] Improved threat detection
 [2026-05-27 21:43:00 IST] Tested root detection bypass
 [2026-05-28 14:18:30 IST] Updated IDA signatures
+[2026-05-28 22:37:52 IST] Updated Volatility profiles
