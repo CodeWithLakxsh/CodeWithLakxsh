@@ -5160,3 +5160,4 @@
 [2026-05-31 18:28:30 IST] Updated IDA Pro signatures
 [2026-05-31 17:28:29 IST] Improved Hashcat rule sets
 [2026-05-31 14:09:56 IST] Improved Hashcat rule sets
+[2026-05-31 20:44:59 IST] Improved malware sandbox configs
