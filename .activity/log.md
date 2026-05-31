@@ -14960,3 +14960,4 @@
 [2026-05-31 15:21:16 IST] Tested Frida hook scripts
 [2026-05-31 18:56:01 IST] Tested SQLMap scripts
 [2026-05-31 16:29:46 IST] Improved sandbox configs
+[2026-05-31 11:35:31 IST] Documented malware IOCs
