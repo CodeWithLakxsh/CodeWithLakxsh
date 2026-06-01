@@ -14965,3 +14965,4 @@
 [2026-05-31 16:49:19 IST] Tested OSINT techniques
 [2026-05-31 07:26:57 IST] Improved sandbox configs
 [2026-05-31 12:43:53 IST] Tested Aircrack configs
+[2026-06-01 21:57:53 IST] Tested root detection bypass
