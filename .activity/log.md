@@ -14970,3 +14970,4 @@
 [2026-06-01 15:07:48 IST] Reviewed binary diffs
 [2026-06-01 16:02:22 IST] Documented malware IOCs
 [2026-06-01 15:31:19 IST] Tested root detection bypass
+[2026-06-01 17:07:29 IST] Updated YARA detection rules
