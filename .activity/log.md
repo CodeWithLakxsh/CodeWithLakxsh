@@ -5178,3 +5178,4 @@
 [2026-06-01 17:41:34 IST] Reviewed Metasploit payloads
 [2026-06-01 17:00:25 IST] Reviewed CVE disclosures
 [2026-06-01 23:48:37 IST] Updated IDA Pro signatures
+[2026-06-01 11:16:42 IST] Updated YARA detection rules
