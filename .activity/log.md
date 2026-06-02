@@ -15002,3 +15002,4 @@
 [2026-06-02 14:38:09 IST] Reviewed APK decompilation
 [2026-06-02 11:12:45 IST] Tested root detection bypass
 [2026-06-02 08:53:32 IST] Updated YARA detection rules
+[2026-06-02 08:10:01 IST] Updated IDA signatures
