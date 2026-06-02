@@ -15000,3 +15000,4 @@
 [2026-06-02 16:54:36 IST] Documented malware IOCs
 [2026-06-02 13:38:09 IST] Updated exploit checks
 [2026-06-02 14:38:09 IST] Reviewed APK decompilation
+[2026-06-02 11:12:45 IST] Tested root detection bypass
