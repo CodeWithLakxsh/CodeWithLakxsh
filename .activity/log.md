@@ -5221,3 +5221,4 @@
 [2026-06-02 23:48:00 IST] Added new Nmap scan profiles
 [2026-06-02 14:18:48 IST] Tested new Ghidra plugins
 [2026-06-02 10:56:41 IST] Updated Drozer modules
+[2026-06-03 23:10:19 IST] Updated IDA Pro signatures
