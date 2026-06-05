@@ -15088,3 +15088,4 @@
 [2026-06-05 15:23:28 IST] Updated Burp Suite configs
 [2026-06-05 11:05:25 IST] Documented malware IOCs
 [2026-06-05 14:35:06 IST] Improved analysis toolchain
+[2026-06-05 18:18:18 IST] Updated YARA detection rules
