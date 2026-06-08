@@ -15185,3 +15185,4 @@
 [2026-06-08 15:11:25 IST] Improved threat detection
 [2026-06-08 22:21:02 IST] Tested Objection scripts
 [2026-06-08 12:25:25 IST] Tested OSINT techniques
+[2026-06-08 06:35:12 IST] Updated YARA detection rules
