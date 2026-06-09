@@ -15211,3 +15211,4 @@
 [2026-06-09 10:39:40 IST] Updated IDA signatures
 [2026-06-09 21:30:32 IST] Documented malware IOCs
 [2026-06-09 08:34:57 IST] Tested root detection bypass
+[2026-06-09 16:47:29 IST] Tested Frida hook scripts
