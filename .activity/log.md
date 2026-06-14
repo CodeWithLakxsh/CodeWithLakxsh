@@ -5497,3 +5497,4 @@
 [2026-06-13 08:30:09 IST] Tested Frida hook scripts
 [2026-06-14 14:24:12 IST] Tested Objection bypass scripts
 [2026-06-14 19:20:06 IST] Updated Wireshark display filters
+[2026-06-14 15:53:16 IST] Added new Nmap scan profiles
