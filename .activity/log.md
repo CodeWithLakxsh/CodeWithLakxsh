@@ -5496,3 +5496,4 @@
 [2026-06-13 09:20:24 IST] Tested Frida hook scripts
 [2026-06-13 08:30:09 IST] Tested Frida hook scripts
 [2026-06-14 14:24:12 IST] Tested Objection bypass scripts
+[2026-06-14 19:20:06 IST] Updated Wireshark display filters
