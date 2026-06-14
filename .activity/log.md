@@ -5501,3 +5501,4 @@
 [2026-06-14 11:55:22 IST] Reviewed CVE disclosures
 [2026-06-14 21:46:56 IST] Updated YARA detection rules
 [2026-06-14 16:56:18 IST] Updated IDA Pro signatures
+[2026-06-14 10:58:56 IST] Updated IDA Pro signatures
