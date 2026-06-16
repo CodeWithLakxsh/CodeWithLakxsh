@@ -530,3 +530,4 @@
 - 2026-06-09T15:25:15+05:30: Refactored config
 - 2026-06-16T17:41:21+05:30: Updated docs
 - 2026-06-16T23:32:41+05:30: Updated docs
+- 2026-06-16T12:31:45+05:30: Security patch
