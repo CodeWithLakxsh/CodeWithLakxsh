@@ -5671,3 +5671,4 @@
 [2026-06-20 07:42:55 IST] Refactored security scanner module
 [2026-06-20 19:25:12 IST] Updated YARA detection rules
 [2026-06-20 21:25:48 IST] Improved malware sandbox configs
+[2026-06-20 10:57:44 IST] Added new Nmap scan profiles
