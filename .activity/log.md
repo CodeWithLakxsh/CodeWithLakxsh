@@ -5705,3 +5705,4 @@
 [2026-06-21 14:24:20 IST] Improved threat detection pipeline
 [2026-06-21 15:54:43 IST] Documented malware IOCs
 [2026-06-21 23:48:35 IST] Updated YARA detection rules
+[2026-06-21 07:44:57 IST] Improved Hashcat rule sets
