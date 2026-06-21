@@ -5703,3 +5703,4 @@
 [2026-06-21 22:48:23 IST] Improved malware sandbox configs
 [2026-06-21 13:34:29 IST] Updated Volatility memory profiles
 [2026-06-21 14:24:20 IST] Improved threat detection pipeline
+[2026-06-21 15:54:43 IST] Documented malware IOCs
