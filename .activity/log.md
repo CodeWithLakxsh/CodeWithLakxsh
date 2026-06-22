@@ -5720,3 +5720,4 @@
 [2026-06-21 18:44:28 IST] Practiced ARM disassembly
 [2026-06-22 09:28:51 IST] Reviewed APK decompilation output
 [2026-06-22 06:02:25 IST] Reviewed network packet captures
+[2026-06-22 22:31:05 IST] Documented malware IOCs
