@@ -5723,3 +5723,4 @@
 [2026-06-22 22:31:05 IST] Documented malware IOCs
 [2026-06-22 13:19:49 IST] Improved malware sandbox configs
 [2026-06-22 14:13:00 IST] Tested Objection bypass scripts
+[2026-06-22 18:42:28 IST] Improved Hashcat rule sets
