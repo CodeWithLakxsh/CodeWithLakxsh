@@ -5812,3 +5812,4 @@
 [2026-06-25 10:15:52 IST] Practiced ARM disassembly
 [2026-06-25 12:37:46 IST] Tested new OSINT techniques
 [2026-06-25 15:53:05 IST] Tested new Ghidra plugins
+[2026-06-25 13:15:00 IST] Tested Objection bypass scripts
