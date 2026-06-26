@@ -5861,3 +5861,4 @@
 [2026-06-26 13:24:18 IST] Reviewed Metasploit payloads
 [2026-06-26 10:31:36 IST] Tested new Ghidra plugins
 [2026-06-26 15:05:46 IST] Tested new Ghidra plugins
+[2026-06-26 09:33:02 IST] Documented malware IOCs
