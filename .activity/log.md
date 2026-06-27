@@ -5875,3 +5875,4 @@
 [2026-06-27 07:20:31 IST] Updated IDA Pro signatures
 [2026-06-27 07:50:50 IST] Updated YARA detection rules
 [2026-06-27 19:29:58 IST] Analyzed suspicious PE headers
+[2026-06-27 13:31:15 IST] Refactored security scanner module
