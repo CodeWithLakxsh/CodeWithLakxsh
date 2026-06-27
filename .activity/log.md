@@ -5873,3 +5873,4 @@
 [2026-06-27 16:28:20 IST] Reviewed binary diffing results
 [2026-06-27 20:51:34 IST] Reviewed CVE disclosures
 [2026-06-27 07:20:31 IST] Updated IDA Pro signatures
+[2026-06-27 07:50:50 IST] Updated YARA detection rules
