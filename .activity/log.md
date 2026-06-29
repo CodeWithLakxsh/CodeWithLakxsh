@@ -5919,3 +5919,4 @@
 [2026-06-29 11:04:36 IST] Added new Nmap scan profiles
 [2026-06-29 20:32:58 IST] Improved code analysis toolchain
 [2026-06-29 23:02:05 IST] Documented RE workflow notes
+[2026-06-29 06:15:45 IST] Documented malware IOCs
