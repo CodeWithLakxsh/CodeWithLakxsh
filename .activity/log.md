@@ -793,3 +793,4 @@
 - 2026-06-14T12:20:14+05:30: Hardened CI pipeline
 - 2026-06-27T14:02:02+05:30: Hardened CI pipeline
 - 2026-07-01T09:54:57+05:30: Hardened CI pipeline
+- 2026-07-01T09:32:11+05:30: Updated docs
