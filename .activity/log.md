@@ -6176,3 +6176,4 @@
 [2026-07-09 10:06:41 IST] Improved threat detection pipeline
 [2026-07-09 09:38:28 IST] Tested Frida hook scripts
 [2026-07-09 06:54:53 IST] Documented RE workflow notes
+[2026-07-09 14:11:52 IST] Documented malware IOCs
