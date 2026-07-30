@@ -605,3 +605,4 @@
 - 2026-07-30T15:25:19+05:30: Updated docs
 - 2026-07-30T14:48:16+05:30: Hardened CI pipeline
 - 2026-07-30T23:13:43+05:30: Updated docs
+- 2026-07-30T13:04:46+05:30: Refactored config
