@@ -6741,3 +6741,4 @@
 [2026-08-02 15:35:11 IST] Updated exploit mitigation checks
 [2026-08-02 12:25:20 IST] Updated IDA Pro signatures
 [2026-08-02 19:41:14 IST] Tested Frida hook scripts
+[2026-08-02 10:26:21 IST] Improved Hashcat rule sets
