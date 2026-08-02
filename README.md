@@ -2,7 +2,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/268010559?v=4" width="110" height="110" alt="CodeWithLakxsh" />
 
-# Hi, I'm CodeWithLaksh 👋
+# Hi, I'm CodeWithLakxsh 👋
 
 **Developer building the JARVIS ecosystem — automation for messaging, media, and communication.**
 
