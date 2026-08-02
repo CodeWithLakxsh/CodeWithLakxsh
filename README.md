@@ -10,7 +10,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-codewithlakxsh.github.io-00f5ff?style=for-the-badge&logo=githubpages&logoColor=00f5ff)](https://codewithlakxsh.github.io/)
 [![Repositories](https://img.shields.io/badge/Repositories-github.com%2FCodeWithLakxsh-0b57d0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeWithLakxsh?tab=repositories)
-[![Latest Release](https://img.shields.io/badge/Latest_Release-JARVIS_GeoSpoof_v1.0.0-ffb347?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeWithLakxsh/Jarvis-GeoSpoof/releases/tag/v1.0.0)
+[![Latest Release](https://img.shields.io/badge/Latest_Release-JARVIS_Music_v1.0.0-ffb347?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeWithLakxsh/Jarvis-Music/releases/tag/v1.0.0)
 [![Profile views](https://komarev.com/ghpvc/?username=CodeWithLakxsh&color=00f5ff&style=for-the-badge)](https://github.com/CodeWithLakxsh)
 
 </div>
@@ -196,9 +196,10 @@ flowchart LR
 | **Storage** | Room 2.6.1 · SharedPreferences |
 | **Backend** | Python Flask + `jiosaavn` (self-hostable, CORS, SECRET key) |
 | **Build** | Gradle 8.13 · AGP 8.11.2 · Kotlin 2.0.21 · kapt · JDK 17 |
-| **Status** | In active development |
+| **Status** | Released — **v1.0.0** with prebuilt APK |
 
 [![Repository](https://img.shields.io/badge/Source_Code-GitHub-0b57d0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeWithLakxsh/Jarvis-Music)
+[![Release v1.0.0](https://img.shields.io/badge/Release-v1.0.0_APK-ffb347?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeWithLakxsh/Jarvis-Music/releases/tag/v1.0.0)
 
 ---
 
@@ -328,8 +329,8 @@ Extracted from the actual source of the JARVIS repositories:
 
 The most recent activity in the JARVIS suite:
 
-- **JARVIS GeoSpoof** — released **v1.0.0** (first tagged release with a prebuilt APK)
-- **JARVIS Music** — the newest repository; Android app and Flask API in active development
+- **JARVIS Music** — released **v1.0.0** with a prebuilt APK
+- **JARVIS GeoSpoof** — released **v1.0.0** with a prebuilt APK
 - **JARVIS ecosystem** — continuing to evolve the suite and its showcase site
 
 ---
