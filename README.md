@@ -4,9 +4,9 @@
 
 # 👋 Hi, I'm CodeWithLakxsh
 
-**Developer building the JARVIS project ecosystem — Android apps, desktop automation, and developer utilities.**
+**Developer building practical software ecosystems — from Android applications and business platforms to desktop automation and developer utilities.**
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&duration=3300&pause=950&color=00F5FF&center=true&vCenter=true&width=620&lines=Building+the+JARVIS+project+ecosystem;Android+development+-+Java+%26+Kotlin;Desktop+automation+with+Electron+%26+Node.js;Music+streaming+%26+downloads+with+Media3;Practical+tools+that+actually+get+used)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&duration=3300&pause=950&color=00F5FF&center=true&vCenter=true&width=620&lines=Building+the+JARVIS+%26+Biteo+ecosystems;Android+development+-+Java%2C+Kotlin+%26+Flutter;Business+platforms+%26+food-tech+applications;Desktop+automation+with+Electron+%26+Node.js;Firebase%2C+APIs+%26+full-stack+product+development;Practical+software+that+actually+gets+used)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-codewithlakxsh.github.io-00f5ff?style=for-the-badge&logo=githubpages&logoColor=00f5ff)](https://codewithlakxsh.github.io/)
 [![Repositories](https://img.shields.io/badge/Repositories-github.com%2FCodeWithLakxsh-0b57d0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeWithLakxsh?tab=repositories)
@@ -19,32 +19,37 @@
 
 ## 📊 Profile Summary
 
-| Focus | Current Ecosystem | Platforms | Types of Work |
+| Focus | Ecosystems | Platforms | Types of Work |
 | :---: | :---: | :---: | :---: |
-| Android · Desktop · Automation | JARVIS | Android · Windows · Web | Native apps, desktop tools, web portfolios, self-hosted APIs |
+| Product Development · Android · Flutter · Automation | JARVIS · Biteo | Android · Web · Windows · Cloud | Mobile apps, business platforms, vendor systems, desktop tools, APIs |
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a developer who builds **practical applications** — the kind of software that solves a real, everyday problem and ships as something usable: an APK, an installer, or a live website.
+I'm a developer who builds **practical applications and complete software products** — the kind of software that solves real workflows and ships as something usable: an APK, a desktop application, a business dashboard, a vendor platform, an API, or a live website.
 
-My work is organized around the **JARVIS project ecosystem**, a collection of applications and tools developed under a common identity:
+My work is currently organized around two major ecosystems:
+
+- **JARVIS** — a collection of Android applications, desktop automation tools, developer utilities, and web experiences
+- **Biteo** — a food-delivery and restaurant technology ecosystem consisting of customer, business, and vendor applications
+
+Within the **JARVIS** ecosystem:
 
 - **JARVIS GeoSpoof** — a native Android developer tool for GPS location testing using Android's official mock-location APIs
 - **JARVIS Music** — a Kotlin/Android music streaming and downloading app for JioSaavn content, backed by a self-hostable Flask API
 - **JARVIS WhatsApp Sender** — an Electron desktop control center for multi-account WhatsApp campaign automation
 - **JARVIS Portfolio** — the cyber-themed showcase website that ties the suite together
 
-I like working across the full stack of a project: native mobile UIs with Java and Kotlin, desktop shells with Electron, local and self-hosted backends with Node.js and Python, and static sites shipped on GitHub Pages. I also document my work thoroughly — every JARVIS repository ships with a README, contributing guidelines, security policy, and issue templates.
+I like working across the full stack of a project: native mobile UIs with Java, Kotlin, and Flutter; desktop shells with Electron; Firebase-backed backends with Cloud Functions; and static sites shipped on GitHub Pages. I also document my work thoroughly — every repository ships with a README, contributing guidelines, security policy, and issue templates.
 
-> The JARVIS ecosystem is a personal project suite. Each application in it is independent, built around a single clear purpose: **build tools, understand the system, keep improving the implementation.**
+> Both ecosystems are personal project suites. Each application in them is independent, built around a single clear purpose: **build tools and products, understand the system, keep improving the implementation.**
 
-| 🛠️ **What I build** | Android applications, desktop automation tools, developer utilities, web experiences |
+| 🛠️ **What I build** | Android applications, food-tech & business platforms, vendor systems, desktop automation tools, developer utilities, web experiences |
 |---|---|
 | 🎯 **Approach** | Project-oriented, end-to-end — from UI to backend to packaging and deployment |
 | 🧩 **Style** | Documented, structured, self-contained repositories |
-| 🗺️ **Where my projects live** | Android · Windows desktop · GitHub Pages · self-hosted APIs |
+| 🗺️ **Where my projects live** | Android · Web · Windows desktop · Firebase / Cloud · GitHub Pages |
 
 ---
 
@@ -53,10 +58,10 @@ I like working across the full stack of a project: native mobile UIs with Java a
 ### 💻 Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,js,python,html,css" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,js,python,dart,html,css" alt="Languages" />
 </p>
 
-**Kotlin · Java · JavaScript · Python · HTML · CSS**
+**Kotlin · Java · JavaScript · Python · Dart · HTML · CSS**
 
 ### 📱 Android Development
 
@@ -65,6 +70,14 @@ I like working across the full stack of a project: native mobile UIs with Java a
 </p>
 
 **Android SDK · AndroidX · Material Components · ViewBinding · ConstraintLayout · Kotlin Coroutines · Media3 / ExoPlayer · Retrofit · OkHttp · Glide · Room (kapt) · DownloadManager · Foreground Services · JobScheduler · osmdroid / OpenStreetMap · Mock Location APIs**
+
+### 📱 Flutter & Firebase
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Flutter" />
+</p>
+
+**Flutter · Dart · Material Design 3 · Riverpod · Firebase Authentication · Cloud Firestore · Firebase Storage · Firebase Cloud Functions · Firebase Cloud Messaging · Razorpay integration**
 
 ### 🖥️ Desktop & Automation
 
@@ -108,13 +121,151 @@ I like working across the full stack of a project: native mobile UIs with Java a
 
 | Area | What I Build | Technologies |
 | :--- | :--- | :--- |
-| **Android Applications** | Native utility and media apps for the JARVIS suite | Java, Kotlin, AndroidX, Material Components |
+| **Android Applications** | Native utility, media, and consumer apps across ecosystems | Java, Kotlin, AndroidX, Material Components |
+| **Flutter Applications** | Food-delivery, business, and vendor products for Biteo | Flutter, Dart, Riverpod, Material Design 3 |
+| **Firebase Backends** | Authentication, Firestore, storage, and Cloud Functions for Biteo | Firebase, Firestore, Cloud Functions, Cloud Messaging |
 | **Desktop Applications** | Electron-based desktop control centers | Electron, Node.js, Express, Socket.IO |
 | **Automation** | Multi-session messaging workflows with live monitoring | whatsapp-web.js, Puppeteer, QR pairing |
 | **Media Applications** | Streaming, offline downloads, playlists, liked-song libraries | Media3/ExoPlayer, Retrofit, Room, DownloadManager |
-| **API Integration** | Android apps talking to self-hosted APIs | Retrofit, OkHttp, Flask, REST |
+| **API Integration** | Apps talking to self-hosted and cloud APIs | Retrofit, OkHttp, Flask, REST |
 | **Location Testing** | Developer tools for GPS mock-location testing | osmdroid, Mock Location APIs, Foreground Services |
 | **Web Experiences** | Static showcase sites with zero runtime dependencies | HTML5, CSS3, Vanilla JS, GitHub Pages |
+
+---
+
+# 🍔 BITEO Ecosystem
+
+**Biteo is a food-delivery and restaurant technology ecosystem I'm building as a connected set of applications for customers, businesses, and restaurant vendors.**
+
+Official website: [www.biteo.in](https://www.biteo.in/)
+
+```
+BITEO
+├── 📱 Biteo App
+│   └── Customer-facing food delivery application
+├── 🏢 Biteo Business
+│   └── Business/admin management dashboard
+└── 🤝 Biteo Vendor Panel
+    └── Restaurant/vendor management application
+```
+
+---
+
+## 📱 Biteo App
+
+**The customer-facing application for the Biteo food-delivery and restaurant ecosystem.**
+
+Biteo App is the Flutter client customers use to browse vendors, build a cart, place orders, pay, and manage their profile and addresses. Firebase powers the entire backend — Authentication, Cloud Firestore, Cloud Storage, and Cloud Functions — with Razorpay handling payment checkout.
+
+**Features:**
+- Customer-facing food delivery experience
+- Restaurant/vendor discovery
+- Menu and cart workflows
+- Ordering
+- Payment integration
+- Customer profile/address functionality
+- Firebase-backed application architecture
+
+| **Platform** | Android (primary) · Flutter |
+|---|---|
+| **Language** | Dart |
+| **Framework** | Flutter · Riverpod · Material Design 3 |
+| **Backend** | Firebase · Cloud Firestore · Firebase Authentication · Firebase Storage · Firebase Cloud Functions |
+| **Payments** | Razorpay |
+| **Status** | Released — **v1.0.0** |
+
+[![Repository](https://img.shields.io/badge/Source_Code-GitHub-0b57d0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeWithLakxsh/biteo-app)
+[![Release v1.0.0](https://img.shields.io/badge/Release-v1.0.0-ffb347?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeWithLakxsh/biteo-app/releases/tag/v1.0.0)
+[![Website](https://img.shields.io/badge/Website-biteo.in-00f5ff?style=for-the-badge&logo=googlechrome&logoColor=00f5ff)](https://www.biteo.in/)
+
+---
+
+## 🏢 Biteo Business
+
+**The business management dashboard for the Biteo ecosystem.**
+
+Biteo Business is a Flutter-based admin dashboard used to operate the Biteo food-delivery/restaurant platform — managing vendors, users, orders, earnings, offers, coupons, notifications, support tickets, and AI-assistant conversations on top of Firebase.
+
+**Features:**
+- Business/vendor management
+- User management
+- Orders and earnings monitoring
+- Offers and coupons
+- Notifications
+- Support tickets
+- AI chat escalation monitoring
+- Vendor onboarding
+- Firebase-backed administration
+
+| **Platform** | Android · Web (Flutter) |
+|---|---|
+| **Language** | Dart |
+| **Framework** | Flutter · Material Design 3 |
+| **Backend** | Firebase Authentication · Cloud Firestore · Firebase Storage · Firebase/Cloud infrastructure |
+| **Integrations** | Telegram alerts where applicable |
+| **Status** | Released — **v1.0.0** |
+
+> The repository itself documents a security limitation in its current admin gate (a client-side TOTP check) and recommends moving to server-side authentication before production deployment.
+
+[![Repository](https://img.shields.io/badge/Source_Code-GitHub-0b57d0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeWithLakxsh/biteo-business)
+[![Release v1.0.0](https://img.shields.io/badge/Release-v1.0.0-ffb347?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeWithLakxsh/biteo-business/releases/tag/v1.0.0)
+[![Website](https://img.shields.io/badge/Website-biteo.in-00f5ff?style=for-the-badge&logo=googlechrome&logoColor=00f5ff)](https://www.biteo.in/)
+
+---
+
+## 🤝 Biteo Vendor Panel
+
+**The restaurant/vendor management application for partners operating within the Biteo ecosystem.**
+
+Biteo Vendor Panel is the Flutter mobile panel that restaurants and vendors use to manage live orders, menu items, availability, images, and profile settings, with real-time new-order alerts delivered over Firebase Cloud Messaging.
+
+**Features:**
+- Vendor login
+- Vendor dashboard
+- Menu management
+- Menu item availability
+- Image uploads
+- Order management
+- Order acceptance/rejection
+- Order status workflow
+- Vendor profile management
+- Support tickets
+- FCM notifications
+- New-order alerts
+
+| **Platform** | Android (primary) · Flutter |
+|---|---|
+| **Language** | Dart |
+| **Framework** | Flutter · Material Design 3 |
+| **Backend** | Firebase Authentication · Cloud Firestore · Firebase Storage · Firebase Cloud Messaging · Cloud Functions |
+| **Payments** | Razorpay backend integration |
+| **Status** | Development / CI validation |
+
+> Not yet production-ready — production signing, Firebase Web configuration, and Firestore/Storage rules and backend authorization remain pending in the repository.
+
+[![Repository](https://img.shields.io/badge/Source_Code-GitHub-0b57d0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeWithLakxsh/biteo-vendor-panel)
+[![Website](https://img.shields.io/badge/Website-biteo.in-00f5ff?style=for-the-badge&logo=googlechrome&logoColor=00f5ff)](https://www.biteo.in/)
+
+---
+
+### 🌐 Biteo Architecture
+
+```mermaid
+flowchart LR
+    C[📱 Biteo App<br/>Customers]
+    B[🏢 Biteo Business<br/>Business/Admin]
+    V[🤝 Biteo Vendor Panel<br/>Restaurants]
+
+    C --> F[Firebase / Biteo Backend]
+    B --> F
+    V --> F
+
+    F --> DB[(Firestore)]
+    F --> S[(Firebase Storage)]
+    F --> CF[Cloud Functions]
+    CF --> P[Razorpay]
+    CF --> N[Notifications]
+```
 
 ---
 
@@ -269,6 +420,11 @@ Android
 ├── 🛰️ JARVIS GeoSpoof          — GPS mock-location testing tool (Java)
 └── 🎵 JARVIS Music              — music streaming & downloading app (Kotlin)
 
+Flutter / Firebase
+├── 📱 Biteo App                 — customer food-delivery app (Flutter)
+├── 🏢 Biteo Business            — business/admin management dashboard (Flutter)
+└── 🤝 Biteo Vendor Panel        — restaurant/vendor management app (Flutter)
+
 Desktop
 └── 💬 JARVIS WhatsApp Sender    — Electron campaign automation console
 
@@ -327,8 +483,11 @@ Extracted from the actual source of the JARVIS repositories:
 
 ## 🔨 Currently Building
 
-The most recent activity in the JARVIS suite:
+The most recent activity across both ecosystems:
 
+- **Biteo App** — released **v1.0.0**
+- **Biteo Business** — released **v1.0.0**
+- **Biteo Vendor Panel** — in development, validated in CI
 - **JARVIS Music** — released **v1.0.0** with a prebuilt APK
 - **JARVIS GeoSpoof** — released **v1.0.0** with a prebuilt APK
 - **JARVIS ecosystem** — continuing to evolve the suite and its showcase site
@@ -366,10 +525,11 @@ The JARVIS ecosystem — a documented project suite across platforms
 
 ## 🌱 Open Source & Collaboration
 
-- Every JARVIS repository is public and documented — README, `CONTRIBUTING.md`, `SECURITY.md`, and issue templates.
+- Every repository — JARVIS and Biteo — is public and documented with a README, docs, and CI workflows where applicable.
+- JARVIS repositories ship with `CONTRIBUTING.md`, `SECURITY.md`, and issue templates.
 - Issues, feature requests, and pull requests are welcome where repository docs invite them.
-- Forks and contributions (e.g. JioSaavnAPI, register) are clearly distinguished from original JARVIS work.
-- No open-source license has been applied to the JARVIS repositories — all rights reserved by the author until a license is added.
+- Forks and contributions (e.g. JioSaavnAPI, register) are clearly distinguished from original work.
+- No open-source license has been applied to the JARVIS repositories — all rights reserved by the author until a license is added. The Biteo repositories are published under the **MIT** license.
 
 ---
 
@@ -387,13 +547,13 @@ The JARVIS ecosystem — a documented project suite across platforms
 
 > **Build practical tools. Understand the system underneath. Keep improving the implementation — and document what you learn along the way.**
 
-Every JARVIS project starts from a real workflow that needs fixing, ships as something usable (APK, installer, or live site), and stays documented so the next iteration is easier than the last.
+Every project — JARVIS and Biteo — starts from a real workflow that needs fixing, ships as something usable (APK, installer, dashboard, or live site), and stays documented so the next iteration is easier than the last.
 
 ---
 
 <div align="center">
 
-*CodeWithLakxsh — building the JARVIS ecosystem, one commit at a time.*
+*CodeWithLakxsh — building the JARVIS & Biteo ecosystems, one commit at a time.*
 
 [![Profile views](https://komarev.com/ghpvc/?username=CodeWithLakxsh&color=00f5ff&style=for-the-badge)](https://github.com/CodeWithLakxsh)
 
