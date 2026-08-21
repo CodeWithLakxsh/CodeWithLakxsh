@@ -7230,3 +7230,4 @@
 [2026-08-21 21:05:55 IST] Updated Volatility memory profiles
 [2026-08-21 17:20:01 IST] Updated Volatility memory profiles
 [2026-08-21 15:05:38 IST] Documented malware IOCs
+[2026-08-21 17:57:25 IST] Updated YARA detection rules
