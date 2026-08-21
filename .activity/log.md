@@ -625,3 +625,4 @@
 - 2026-08-21T23:25:06+05:30: Updated docs
 - 2026-08-21T08:48:53+05:30: Hardened CI pipeline
 - 2026-08-21T21:12:25+05:30: Updated docs
+- 2026-08-21T12:57:09+05:30: Refactored config
