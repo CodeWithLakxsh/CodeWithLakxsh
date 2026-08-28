@@ -7400,3 +7400,4 @@
 [2026-08-28 13:10:39 IST] Tested new Ghidra plugins
 [2026-08-28 12:52:37 IST] Reviewed binary diffing results
 [2026-08-28 16:47:28 IST] Tested Frida hook scripts
+[2026-08-28 08:18:29 IST] Added new Nmap scan profiles
