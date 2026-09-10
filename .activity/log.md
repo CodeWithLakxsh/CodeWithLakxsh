@@ -7733,3 +7733,4 @@
 [2026-09-10 11:49:57 IST] Updated Volatility memory profiles
 [2026-09-10 10:59:05 IST] Improved code analysis toolchain
 [2026-09-10 09:01:16 IST] Documented RE workflow notes
+[2026-09-10 08:17:55 IST] Documented malware IOCs
