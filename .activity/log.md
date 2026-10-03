@@ -8344,3 +8344,4 @@
 [2026-10-03 21:42:55 IST] Improved Hashcat rule sets
 [2026-10-03 11:34:44 IST] Tested Android root detection bypass
 [2026-10-03 23:46:21 IST] Tested Objection bypass scripts
+[2026-10-03 08:56:14 IST] Documented malware IOCs
