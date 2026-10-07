@@ -8457,3 +8457,4 @@
 [2026-10-07 16:59:57 IST] Tested new Ghidra plugins
 [2026-10-07 21:04:39 IST] Practiced ARM disassembly
 [2026-10-07 16:56:39 IST] Tested Android root detection bypass
+[2026-10-07 16:54:09 IST] Added new Nmap scan profiles
