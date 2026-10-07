@@ -8452,3 +8452,4 @@
 [2026-10-07 11:07:43 IST] Updated IDA Pro signatures
 [2026-10-07 10:34:18 IST] Updated Drozer modules
 [2026-10-07 17:03:57 IST] Improved threat detection pipeline
+[2026-10-07 19:28:35 IST] Added new Nmap scan profiles
