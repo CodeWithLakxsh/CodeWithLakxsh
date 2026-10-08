@@ -8465,3 +8465,4 @@
 [2026-10-08 12:58:29 IST] Improved malware sandbox configs
 [2026-10-08 06:33:34 IST] Improved Hashcat rule sets
 [2026-10-08 06:35:19 IST] Improved code analysis toolchain
+[2026-10-08 10:56:38 IST] Added new Nmap scan profiles
