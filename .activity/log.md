@@ -8642,3 +8642,4 @@
 [2026-10-15 18:20:07 IST] Improved Hashcat rule sets
 [2026-10-15 23:48:09 IST] Reviewed CVE disclosures
 [2026-10-15 16:39:08 IST] Updated Burp Suite configs
+[2026-10-15 09:41:31 IST] Updated Wireshark display filters
