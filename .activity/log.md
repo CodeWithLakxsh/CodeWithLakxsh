@@ -8796,3 +8796,4 @@
 [2026-10-20 17:11:30 IST] Improved Hashcat rule sets
 [2026-10-20 18:51:03 IST] Reviewed CVE disclosures
 [2026-10-20 18:58:57 IST] Updated Volatility memory profiles
+[2026-10-21 11:53:58 IST] Updated Wireshark display filters
