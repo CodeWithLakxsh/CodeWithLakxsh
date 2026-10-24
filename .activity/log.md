@@ -8868,3 +8868,4 @@
 [2026-10-23 10:30:44 IST] Documented RE workflow notes
 [2026-10-24 11:26:52 IST] Reviewed APK decompilation output
 [2026-10-24 20:18:14 IST] Reviewed binary diffing results
+[2026-10-24 10:41:08 IST] Documented malware IOCs
