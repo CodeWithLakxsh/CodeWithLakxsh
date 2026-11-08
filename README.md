@@ -1,6 +1,6 @@
-<!-- Matrix Rain Header -->
+<!-- Dynamic Header -->
 <div align="center">
-  <img src="./assets/matrix-header.svg" width="100%" alt="Matrix Rain Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,30:0d1117,60:00f5ff,100:7b2ff7&height=220&section=header&text=CodeWithLakxsh&fontSize=50&fontAlignY=35&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Engineer%20•%20Cybersecurity%20Specialist%20•%20Digital%20Creator&descSize=16&descAlignY=55&descAlign=50" width="100%" />
 </div>
 
 <!-- Animated Typing -->
@@ -25,7 +25,6 @@
 <div align="center">
 
   [![Telegram](https://img.shields.io/badge/Telegram-@codewithlaksh-26A5E4?style=for-the-badge&labelColor=0d1117&logo=telegram&logoColor=white)](https://t.me/codewithlaksh)
-  [![Agency](https://img.shields.io/badge/Agency-ScaleItLive.in-7b2ff7?style=for-the-badge&labelColor=0d1117)](https://scaleitlive.in/)
   [![Views](https://komarev.com/ghpvc/?username=CodeWithLakxsh&color=00f5ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/CodeWithLakxsh)
 
 </div>
