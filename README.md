@@ -39,7 +39,8 @@
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 
 ```yaml
-name: Laksh Yadav
+name: Yogesh "Laksh" Yadav
+aka: CodeWithLakxsh
 location: Gurugram, Haryana 🇮🇳
 education: MCA @ Geeta University
 
@@ -63,8 +64,33 @@ targets:
 
 ---
 
+<!-- Security & RE Toolkit -->
+## 🔓 &nbsp;Security & Reverse Engineering Toolkit
+
+<div align="center">
+
+![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=nsa&logoColor=white)
+![IDA Pro](https://img.shields.io/badge/IDA_Pro-4B275F?style=for-the-badge&logo=hexrays&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Frida](https://img.shields.io/badge/Frida-EF6456?style=for-the-badge&logo=frida&logoColor=white)
+![JADX](https://img.shields.io/badge/JADX-00979D?style=for-the-badge&logo=android&logoColor=white)
+![APKTool](https://img.shields.io/badge/APKTool-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![YARA](https://img.shields.io/badge/YARA-1a1a2e?style=for-the-badge&logo=virustotal&logoColor=00f5ff)
+![Volatility](https://img.shields.io/badge/Volatility-000000?style=for-the-badge&logo=windowsterminal&logoColor=00ff41)
+![x64dbg](https://img.shields.io/badge/x64dbg-55A6F1?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-FF0000?style=for-the-badge&logo=virustotal&logoColor=white)
+![Threat Intel](https://img.shields.io/badge/Threat_Intel-00B4D8?style=for-the-badge&logo=openbugbounty&logoColor=white)
+
+</div>
+
+---
+
 <!-- Tech Stack -->
-## 🛠️ &nbsp;Tech Arsenal
+## 🛠️ &nbsp;Dev Arsenal
 
 <div align="center">
 
@@ -81,18 +107,8 @@ targets:
 <br/>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vscode,gradle,github,npm,tailwind&theme=dark" alt="Dev Tools" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker,vscode,gradle,github,npm,tailwind&theme=dark" alt="Dev Tools" />
 </a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-FF0000?style=for-the-badge&logo=virustotal&logoColor=white)
-![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
-![Threat Intel](https://img.shields.io/badge/Threat_Intelligence-00B4D8?style=for-the-badge&logo=openbugbounty&logoColor=white)
 
 </div>
 
