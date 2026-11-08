@@ -39,7 +39,6 @@ roles:
   - Cybersecurity Educator & Researcher
 
 current_focus:
-  - 🛡️ Cyber Kavach — anti-cybercrime Android app
   - 🍔 Biteo — food-delivery ecosystem (3 apps)
   - ⚡ JARVIS — automation & developer tools suite
   - 🎓 Teaching reverse engineering to beginners
@@ -58,14 +57,31 @@ targets:
 
 <div align="center">
 
-| Domain | Technologies |
-|:---:|:---|
-| **Languages** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Mobile** | ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Jetpack](https://img.shields.io/badge/Jetpack-4285F4?style=flat-square&logo=android&logoColor=white) |
-| **Backend** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) |
-| **Desktop** | ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white) |
-| **Security** | ![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-FF0000?style=flat-square&logo=virustotal&logoColor=white) ![Reverse Eng](https://img.shields.io/badge/Reverse_Engineering-333333?style=flat-square&logo=hackthebox&logoColor=white) ![Threat Intel](https://img.shields.io/badge/Threat_Intel-00B4D8?style=flat-square&logo=openbugbounty&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white) |
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,python,dart,js,html,css&theme=dark" alt="Languages" />
+</a>
+
+<br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,firebase,flask,nodejs,express,electron,git&theme=dark" alt="Frameworks & Tools" />
+</a>
+
+<br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=vscode,gradle,github,npm,tailwind&theme=dark" alt="Dev Tools" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-FF0000?style=for-the-badge&logo=virustotal&logoColor=white)
+![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
+![Threat Intel](https://img.shields.io/badge/Threat_Intelligence-00B4D8?style=for-the-badge&logo=openbugbounty&logoColor=white)
 
 </div>
 
@@ -74,59 +90,37 @@ targets:
 <!-- Projects -->
 ## 🚀 &nbsp;Flagship Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/CodeWithLakxsh/Jarvis-Music">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeWithLakxsh&repo=Jarvis-Music&theme=github_dark&border_color=00f5ff&icon_color=00f5ff&title_color=00f5ff&text_color=c9d1d9&bg_color=0d1117" />
-</a>
-<a href="https://github.com/CodeWithLakxsh/Jarvis-GeoSpoof">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeWithLakxsh&repo=Jarvis-GeoSpoof&theme=github_dark&border_color=00f5ff&icon_color=00f5ff&title_color=00f5ff&text_color=c9d1d9&bg_color=0d1117" />
-</a>
-<a href="https://github.com/CodeWithLakxsh/biteo-app">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeWithLakxsh&repo=biteo-app&theme=github_dark&border_color=7b2ff7&icon_color=7b2ff7&title_color=7b2ff7&text_color=c9d1d9&bg_color=0d1117" />
-</a>
-<a href="https://github.com/CodeWithLakxsh/Jarvis-Whatsapp-Sender">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeWithLakxsh&repo=Jarvis-Whatsapp-Sender&theme=github_dark&border_color=7b2ff7&icon_color=7b2ff7&title_color=7b2ff7&text_color=c9d1d9&bg_color=0d1117" />
-</a>
+### 🍔 Biteo Ecosystem
+**Complete food-delivery platform** — Flutter + Firebase
 
-</div>
-
-<br/>
-
-<details>
-<summary><b>🛡️ Cyber Kavach</b> — Anti-cybercrime & family safety Android app <i>(startup — in development)</i></summary>
-<br/>
-
-> An Android application designed to protect citizens from cyber fraud, provide real-time threat alerts, and serve as an emergency tool for reporting cybercrime. Built with insights from working alongside Panipat Cyber Police.
-
-</details>
-
-<details>
-<summary><b>🍔 Biteo Ecosystem</b> — Complete food-delivery platform <i>(3 apps — Flutter + Firebase)</i></summary>
-<br/>
-
-| App | Purpose | Status |
-|-----|---------|--------|
-| **Biteo App** | Customer ordering & payments (Razorpay) | ✅ v1.0.0 |
-| **Biteo Business** | Admin dashboard — vendors, orders, earnings | ✅ v1.0.0 |
-| **Biteo Vendor Panel** | Restaurant menu & order management | 🔧 In dev |
+| App | Status |
+|-----|--------|
+| [Biteo App](https://github.com/CodeWithLakxsh/biteo-app) — Customer ordering | ✅ v1.0.0 |
+| [Biteo Business](https://github.com/CodeWithLakxsh/biteo-business) — Admin dashboard | ✅ v1.0.0 |
+| [Biteo Vendor](https://github.com/CodeWithLakxsh/biteo-vendor-panel) — Restaurant panel | 🔧 Dev |
 
 🌐 [biteo.in](https://www.biteo.in/)
 
-</details>
+</td>
+<td width="50%" valign="top">
 
-<details>
-<summary><b>⚡ JARVIS Suite</b> — Developer tools & automation ecosystem</summary>
-<br/>
+### ⚡ JARVIS Suite
+**Developer tools & automation ecosystem**
 
-| Project | Stack | What it does |
-|---------|-------|-------------|
-| **GeoSpoof** | Java · Android | GPS mock-location tool using official APIs |
-| **Music** | Kotlin · Flask API | JioSaavn streaming + offline downloads |
-| **WhatsApp Sender** | Electron · Node.js | Multi-account WhatsApp campaign automation |
-| **Portfolio** | HTML/CSS/JS | Cyber-themed showcase site on GitHub Pages |
+| Project | Stack |
+|---------|-------|
+| [GeoSpoof](https://github.com/CodeWithLakxsh/Jarvis-GeoSpoof) — GPS mock-location | Java · Android |
+| [Music](https://github.com/CodeWithLakxsh/Jarvis-Music) — Streaming + downloads | Kotlin · Flask |
+| [WhatsApp Sender](https://github.com/CodeWithLakxsh/Jarvis-Whatsapp-Sender) — Campaign automation | Electron · Node |
+| [Portfolio](https://github.com/CodeWithLakxsh/CodeWithLakxsh.github.io) — Showcase site | HTML/CSS/JS |
 
-</details>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -134,27 +128,13 @@ targets:
 ## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=CodeWithLakxsh&show_icons=true&theme=github_dark&border_color=00f5ff&icon_color=00f5ff&title_color=00f5ff&text_color=c9d1d9&bg_color=0d1117&hide_border=false&count_private=true" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=CodeWithLakxsh&theme=github-dark-blue&border=00f5ff&ring=00f5ff&fire=7b2ff7&currStreakLabel=00f5ff&sideLabels=00f5ff&background=0d1117" />
+  <img width="55%" src="https://streak-stats.demolab.com/?user=CodeWithLakxsh&theme=github-dark-blue&border=00f5ff&ring=00f5ff&fire=7b2ff7&currStreakLabel=00f5ff&sideLabels=00f5ff&background=0d1117" />
 </div>
 
-<div align="center">
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithLakxsh&layout=compact&theme=github_dark&border_color=00f5ff&title_color=00f5ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
-</div>
+<br/>
 
 <div align="center">
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWithLakxsh&custom_title=Contribution%20Graph&theme=react-dark&hide_border=true&area=true&radius=8&bg_color=0d1117&color=00f5ff&line=7b2ff7&point=00f5ff&area_color=7b2ff720" />
-</div>
-
----
-
-<!-- Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeWithLakxsh/CodeWithLakxsh/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeWithLakxsh/CodeWithLakxsh/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/CodeWithLakxsh/CodeWithLakxsh/output/github-snake-dark.svg" />
-  </picture>
 </div>
 
 ---
