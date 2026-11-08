@@ -6,7 +6,7 @@
 <!-- Animated Typing -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=%24+whoami+→+Full-Stack+Engineer+%7C+Malware+Analyst;%24+status+→+Building+tools+that+solve+real+problems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&height=60&lines=Malware+Analyst+%7C+Reverse+Engineer;Full-Stack+Engineer+%7C+Digital+Creator;Building+tools+that+solve+real+problems;Breaking+binaries+%26+building+software" alt="Typing SVG" />
   </a>
 </div>
 
@@ -65,25 +65,64 @@ targets:
 ---
 
 <!-- Security & RE Toolkit -->
-## 🔓 &nbsp;Security & Reverse Engineering Toolkit
+## ☠️ &nbsp;Security & Reverse Engineering Arsenal
 
 <div align="center">
 
+<!-- Reverse Engineering -->
 ![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=nsa&logoColor=white)
 ![IDA Pro](https://img.shields.io/badge/IDA_Pro-4B275F?style=for-the-badge&logo=hexrays&logoColor=white)
+![x64dbg](https://img.shields.io/badge/x64dbg-55A6F1?style=for-the-badge&logo=hackthebox&logoColor=white)
+![OllyDbg](https://img.shields.io/badge/OllyDbg-8B0000?style=for-the-badge&logo=windowsterminal&logoColor=white)
+![Radare2](https://img.shields.io/badge/Radare2-000000?style=for-the-badge&logo=gnometerminal&logoColor=yellow)
+![Binary Ninja](https://img.shields.io/badge/Binary_Ninja-D33115?style=for-the-badge&logo=hackthebox&logoColor=white)
+![PE-bear](https://img.shields.io/badge/PE--bear-2E2E2E?style=for-the-badge&logo=windows&logoColor=white)
+![dnSpy](https://img.shields.io/badge/dnSpy-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+<!-- Android RE -->
+![JADX](https://img.shields.io/badge/JADX-00979D?style=for-the-badge&logo=android&logoColor=white)
+![APKTool](https://img.shields.io/badge/APKTool-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Frida](https://img.shields.io/badge/Frida-EF6456?style=for-the-badge&logo=android&logoColor=white)
+![Objection](https://img.shields.io/badge/Objection-FF4500?style=for-the-badge&logo=android&logoColor=white)
+![MobSF](https://img.shields.io/badge/MobSF-1a73e8?style=for-the-badge&logo=android&logoColor=white)
+![Drozer](https://img.shields.io/badge/Drozer-FF6F00?style=for-the-badge&logo=android&logoColor=white)
+![ADB](https://img.shields.io/badge/ADB-3DDC84?style=for-the-badge&logo=android&logoColor=black)
+
+<!-- Network & Pentesting -->
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Frida](https://img.shields.io/badge/Frida-EF6456?style=for-the-badge&logo=frida&logoColor=white)
-![JADX](https://img.shields.io/badge/JADX-00979D?style=for-the-badge&logo=android&logoColor=white)
-![APKTool](https://img.shields.io/badge/APKTool-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=gnometerminal&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-000000?style=for-the-badge&logo=gnometerminal&logoColor=00ff41)
+![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logo=mysql&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-6C3483?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-8B0000?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-003366?style=for-the-badge&logo=wifi&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-2E8B57?style=for-the-badge&logo=gnometerminal&logoColor=white)
+
+<!-- Malware & Forensics -->
 ![YARA](https://img.shields.io/badge/YARA-1a1a2e?style=for-the-badge&logo=virustotal&logoColor=00f5ff)
 ![Volatility](https://img.shields.io/badge/Volatility-000000?style=for-the-badge&logo=windowsterminal&logoColor=00ff41)
-![x64dbg](https://img.shields.io/badge/x64dbg-55A6F1?style=for-the-badge&logo=hackthebox&logoColor=white)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
+![Any.Run](https://img.shields.io/badge/Any.Run-FF4444?style=for-the-badge&logo=virustotal&logoColor=white)
+![Cuckoo](https://img.shields.io/badge/Cuckoo_Sandbox-2E7D32?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Autopsy](https://img.shields.io/badge/Autopsy-1565C0?style=for-the-badge&logo=windows&logoColor=white)
+![PEStudio](https://img.shields.io/badge/PEStudio-333333?style=for-the-badge&logo=windows&logoColor=white)
+
+<!-- OS & Platforms -->
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/Parrot_OS-00DC82?style=for-the-badge&logo=linux&logoColor=black)
+![Tails](https://img.shields.io/badge/Tails_OS-56347C?style=for-the-badge&logo=tails&logoColor=white)
+![REMnux](https://img.shields.io/badge/REMnux-000000?style=for-the-badge&logo=linux&logoColor=00f5ff)
+![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=torbrowser&logoColor=white)
+
+<!-- Specialties -->
 ![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-FF0000?style=for-the-badge&logo=virustotal&logoColor=white)
+![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
 ![Threat Intel](https://img.shields.io/badge/Threat_Intel-00B4D8?style=for-the-badge&logo=openbugbounty&logoColor=white)
+![Digital Forensics](https://img.shields.io/badge/Digital_Forensics-FF6F00?style=for-the-badge&logo=searxng&logoColor=white)
+![OSINT](https://img.shields.io/badge/OSINT-1a1a2e?style=for-the-badge&logo=opensourceinitiative&logoColor=00f5ff)
+![CTF Player](https://img.shields.io/badge/CTF_Player-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
 
 </div>
 
@@ -95,19 +134,25 @@ targets:
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,python,dart,js,html,css&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,python,c,cpp,dart,js,ts,html,css&theme=dark" alt="Languages" />
 </a>
 
 <br/>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,firebase,flask,nodejs,express,electron,git&theme=dark" alt="Frameworks & Tools" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,firebase,flask,django,fastapi,nodejs,express,electron,react&theme=dark" alt="Frameworks" />
 </a>
 
 <br/>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linux,bash,docker,vscode,gradle,github,npm,tailwind&theme=dark" alt="Dev Tools" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,nginx,redis,mongodb,mysql,postgres,sqlite&theme=dark" alt="Infrastructure" />
+</a>
+
+<br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=vscode,vim,git,github,gitlab,gradle,npm,webpack,tailwind,figma&theme=dark" alt="Dev Tools" />
 </a>
 
 </div>
