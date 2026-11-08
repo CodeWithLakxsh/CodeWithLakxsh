@@ -1,0 +1,63 @@
+name: Daily Auto Contribution
+
+on:
+  schedule:
+    # Runs twice daily at random-ish times (8:30 AM and 8:30 PM IST = 3:00 and 15:00 UTC)
+    - cron: "0 3 * * *"
+    - cron: "0 15 * * *"
+  workflow_dispatch:  # manual trigger
+
+jobs:
+  auto-commit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate activity
+        run: |
+          # Update the activity log with timestamp and random dev fact
+          mkdir -p .activity
+
+          FACTS=(
+            "Analyzed a suspicious binary sample"
+            "Reviewed malware signatures database"
+            "Updated threat intelligence feeds"
+            "Practiced reverse engineering techniques"
+            "Studied new CVE disclosures"
+            "Improved code obfuscation detection"
+            "Tested Android app security patterns"
+            "Reviewed YARA rules for malware detection"
+            "Explored new Frida hooking scripts"
+            "Updated Ghidra analysis plugins"
+            "Studied Windows PE file structures"
+            "Practiced memory forensics with Volatility"
+            "Reviewed network traffic patterns"
+            "Updated Burp Suite extensions"
+            "Tested new pentesting methodologies"
+            "Explored new exploit mitigation bypasses"
+            "Documented API security findings"
+            "Built automation scripts for recon"
+            "Studied ARM assembly patterns"
+            "Reviewed mobile app attack surfaces"
+          )
+
+          RANDOM_FACT=${FACTS[$((RANDOM % ${#FACTS[@]}))]}
+          TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
+
+          echo "[$TIMESTAMP] $RANDOM_FACT" >> .activity/log.md
+
+          # Keep only last 90 days of entries (trim file)
+          tail -n 180 .activity/log.md > .activity/log.tmp && mv .activity/log.tmp .activity/log.md
+
+      - name: Commit and push
+        run: |
+          git config user.name "CodeWithLakxsh"
+          git config user.email "yogeshkhola010@gmail.com"
+          git add .activity/log.md
+          git diff --staged --quiet && echo "No changes" && exit 0
+          git commit -m "🔄 auto: daily activity log update"
+          git push

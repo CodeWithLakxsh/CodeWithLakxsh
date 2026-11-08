@@ -225,11 +225,6 @@ targets:
   <img width="55%" src="https://streak-stats.demolab.com/?user=CodeWithLakxsh&theme=github-dark-blue&border=00f5ff&ring=00f5ff&fire=7b2ff7&currStreakLabel=00f5ff&sideLabels=00f5ff&background=0d1117" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWithLakxsh&custom_title=Contribution%20Graph&theme=react-dark&hide_border=true&area=true&radius=8&bg_color=0d1117&color=00f5ff&line=7b2ff7&point=00f5ff&area_color=7b2ff720" />
-</div>
 
 ---
 
