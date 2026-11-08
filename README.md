@@ -1,26 +1,38 @@
-<!-- Dynamic Header -->
+<!-- Matrix Rain Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,30:0d1117,60:00f5ff,100:7b2ff7&height=220&section=header&text=CodeWithLakxsh&fontSize=50&fontAlignY=35&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Engineer%20•%20Cybersecurity%20Specialist%20•%20Digital%20Creator&descSize=16&descAlignY=55&descAlign=50" width="100%" />
+  <img src="./assets/matrix-header.svg" width="100%" alt="Matrix Rain Header" />
 </div>
 
 <!-- Animated Typing -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=650&height=80&lines=Building+secure+software+that+solves+real+problems;From+Android+apps+to+cyber+threat+intelligence" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=%24+whoami+→+Full-Stack+Engineer+%7C+Malware+Analyst;%24+status+→+Building+tools+that+solve+real+problems" alt="Typing SVG" />
   </a>
 </div>
 
+<br/>
+
+<!-- Portfolio Banner -->
+<div align="center">
+  <a href="https://codewithlaksh.in/">
+    <img src="https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO-codewithlaksh.in-00f5ff?style=for-the-badge&labelColor=0d1117&logo=googlechrome&logoColor=00f5ff" height="40" alt="Portfolio" />
+  </a>
+</div>
+
+<br/>
+
 <!-- Quick Links -->
 <div align="center">
-  
-  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-codewithlaksh.in-00f5ff?style=for-the-badge&labelColor=0d1117)](https://codewithlaksh.in/)
-  [![Agency](https://img.shields.io/badge/🏢_Agency-ScaleItLive.in-7b2ff7?style=for-the-badge&labelColor=0d1117)](https://scaleitlive.in/)
-  [![Telegram](https://img.shields.io/badge/💬_Telegram-@codewithlaksh-26A5E4?style=for-the-badge&labelColor=0d1117)](https://t.me/codewithlaksh)
+
+  [![Telegram](https://img.shields.io/badge/Telegram-@codewithlaksh-26A5E4?style=for-the-badge&labelColor=0d1117&logo=telegram&logoColor=white)](https://t.me/codewithlaksh)
+  [![Agency](https://img.shields.io/badge/Agency-ScaleItLive.in-7b2ff7?style=for-the-badge&labelColor=0d1117)](https://scaleitlive.in/)
   [![Views](https://komarev.com/ghpvc/?username=CodeWithLakxsh&color=00f5ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/CodeWithLakxsh)
 
 </div>
 
 <br/>
+
+---
 
 <!-- About Section -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
@@ -35,12 +47,12 @@ education: MCA @ Geeta University
 roles:
   - Full-Stack Software Engineer
   - Malware Analyst @ Panipat Cyber Police
-  - Founder @ ScaleItLive (Web Agency)
   - Cybersecurity Educator & Researcher
 
 current_focus:
   - 🍔 Biteo — food-delivery ecosystem (3 apps)
   - ⚡ JARVIS — automation & developer tools suite
+  - 🔬 Lakxsh Labs — open-source privacy & audio tools
   - 🎓 Teaching reverse engineering to beginners
 
 targets:
@@ -90,33 +102,55 @@ targets:
 <!-- Projects -->
 ## 🚀 &nbsp;Flagship Projects
 
+<!-- Biteo Ecosystem -->
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%">
 
-### 🍔 Biteo Ecosystem
-**Complete food-delivery platform** — Flutter + Firebase
+### 🍔 &nbsp;Biteo Ecosystem
+> **Complete food-delivery platform** — Flutter + Firebase &nbsp;|&nbsp; 🌐 [biteo.in](https://www.biteo.in/)
 
-| App | Status |
-|-----|--------|
-| [Biteo App](https://github.com/CodeWithLakxsh/biteo-app) — Customer ordering | ✅ v1.0.0 |
-| [Biteo Business](https://github.com/CodeWithLakxsh/biteo-business) — Admin dashboard | ✅ v1.0.0 |
-| [Biteo Vendor](https://github.com/CodeWithLakxsh/biteo-vendor-panel) — Restaurant panel | 🔧 Dev |
-
-🌐 [biteo.in](https://www.biteo.in/)
+| App | Description | Status |
+|-----|-------------|--------|
+| [**Biteo App**](https://github.com/CodeWithLakxsh/biteo-app) | Customer ordering app | ✅ v1.0.0 |
+| [**Biteo Business**](https://github.com/CodeWithLakxsh/biteo-business) | Admin dashboard & analytics | ✅ v1.0.0 |
+| [**Biteo Vendor**](https://github.com/CodeWithLakxsh/biteo-vendor-panel) | Restaurant management panel | 🔧 Dev |
 
 </td>
-<td width="50%" valign="top">
+</tr>
+</table>
 
-### ⚡ JARVIS Suite
-**Developer tools & automation ecosystem**
+<!-- JARVIS Suite -->
+<table>
+<tr>
+<td width="100%">
 
-| Project | Stack |
-|---------|-------|
-| [GeoSpoof](https://github.com/CodeWithLakxsh/Jarvis-GeoSpoof) — GPS mock-location | Java · Android |
-| [Music](https://github.com/CodeWithLakxsh/Jarvis-Music) — Streaming + downloads | Kotlin · Flask |
-| [WhatsApp Sender](https://github.com/CodeWithLakxsh/Jarvis-Whatsapp-Sender) — Campaign automation | Electron · Node |
-| [Portfolio](https://github.com/CodeWithLakxsh/CodeWithLakxsh.github.io) — Showcase site | HTML/CSS/JS |
+### ⚡ &nbsp;JARVIS Suite
+> **Developer tools & automation ecosystem**
+
+| Project | Stack | Description |
+|---------|-------|-------------|
+| [**GeoSpoof**](https://github.com/CodeWithLakxsh/Jarvis-GeoSpoof) | Java · Android | GPS mock-location tool |
+| [**Music**](https://github.com/CodeWithLakxsh/Jarvis-Music) | Kotlin · Flask | Streaming + offline downloads |
+| [**WhatsApp Sender**](https://github.com/CodeWithLakxsh/Jarvis-Whatsapp-Sender) | Electron · Node | Campaign automation bot |
+| [**Portfolio**](https://github.com/CodeWithLakxsh/CodeWithLakxsh.github.io) | HTML/CSS/JS | Personal showcase site |
+
+</td>
+</tr>
+</table>
+
+<!-- Lakxsh Labs -->
+<table>
+<tr>
+<td width="100%">
+
+### 🔬 &nbsp;Lakxsh Labs
+> **Open-source experiments & indie tools**
+
+| Project | Stack | Description |
+|---------|-------|-------------|
+| [**VeriScrub**](https://github.com/CodeWithLakxsh/veriscrub) | Python · ExifTool · FFmpeg | Offline metadata privacy scrubber — strips GPS, device info, AI prompts from images, video, audio, PDFs & docs |
+| [**Auralynx**](https://github.com/CodeWithLakxsh/auralynx-android) | Kotlin · Android · BLE | Android companion for Apple/Beats audio — battery status, ear detection, 10-band EQ, live translation |
 
 </td>
 </tr>
