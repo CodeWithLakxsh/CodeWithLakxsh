@@ -50,3 +50,4 @@
 [2026-11-09 14:03:12 UTC] Improved threat detection pipeline
 [2026-11-09 14:03:12 UTC] Documented RE workflow notes
 [2026-11-09 14:03:12 UTC] Reviewed network packet captures
+[2026-11-09 14:03:13 UTC] Practiced ARM disassembly
