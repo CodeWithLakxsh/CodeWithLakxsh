@@ -51,3 +51,4 @@
 [2026-11-09 14:03:12 UTC] Documented RE workflow notes
 [2026-11-09 14:03:12 UTC] Reviewed network packet captures
 [2026-11-09 14:03:13 UTC] Practiced ARM disassembly
+[2026-11-09 14:03:13 UTC] Tested new Ghidra plugins
