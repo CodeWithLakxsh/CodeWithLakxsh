@@ -13,3 +13,4 @@
 [2026-11-09 14:02:23 UTC] Documented malware IOCs
 [2026-11-09 14:02:23 UTC] Updated Burp Suite configs
 [2026-11-09 14:02:23 UTC] Documented malware IOCs
+[2026-11-09 14:02:23 UTC] Updated exploit mitigation checks
