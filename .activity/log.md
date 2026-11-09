@@ -38,3 +38,4 @@
 [2026-11-09 14:03:11 UTC] Tested SQLMap tamper scripts
 [2026-11-09 14:03:11 UTC] Documented malware IOCs
 [2026-11-09 14:03:12 UTC] Improved malware sandbox configs
+[2026-11-09 14:03:12 UTC] Updated Wireshark display filters
