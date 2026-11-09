@@ -23,3 +23,4 @@
 [2026-11-09 14:02:24 UTC] Documented RE workflow notes
 [2026-11-09 14:03:10 UTC] Documented malware IOCs
 [2026-11-09 14:03:10 UTC] Tested new OSINT techniques
+[2026-11-09 14:03:10 UTC] Updated Burp Suite configs
