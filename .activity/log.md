@@ -84,3 +84,4 @@
 [2026-11-09 14:03:15 UTC] Reviewed APK decompilation output
 [2026-11-09 14:03:15 UTC] Tested new Ghidra plugins
 [2026-11-09 14:03:15 UTC] Updated exploit mitigation checks
+[2026-11-09 14:03:15 UTC] Updated Wireshark display filters
