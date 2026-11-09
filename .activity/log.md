@@ -191,3 +191,4 @@
 [2026-11-09 14:04:10 UTC] Reviewed CVE disclosures
 [2026-11-09 14:04:10 UTC] Reviewed Metasploit payloads
 [2026-11-09 14:04:10 UTC] Reviewed APK decompilation output
+[2026-11-09 14:04:11 UTC] Practiced ARM disassembly
