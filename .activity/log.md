@@ -94,3 +94,4 @@
 [2026-11-09 14:03:16 UTC] Updated exploit mitigation checks
 [2026-11-09 14:03:16 UTC] Updated exploit mitigation checks
 [2026-11-09 14:03:16 UTC] Optimized recon automation scripts
+[2026-11-09 14:03:16 UTC] Updated Wireshark display filters
