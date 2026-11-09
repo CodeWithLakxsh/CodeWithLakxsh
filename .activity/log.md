@@ -200,3 +200,4 @@
 [2026-11-09 14:04:11 UTC] Updated Burp Suite configs
 [2026-11-09 14:04:11 UTC] Improved code analysis toolchain
 [2026-11-09 14:04:11 UTC] Practiced ARM disassembly
+[2026-11-09 14:04:11 UTC] Tested new Ghidra plugins
