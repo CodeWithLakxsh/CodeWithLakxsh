@@ -18,3 +18,4 @@
 [2026-11-09 14:02:23 UTC] Documented malware IOCs
 [2026-11-09 14:02:23 UTC] Practiced ARM disassembly
 [2026-11-09 14:02:24 UTC] Tested Frida hook scripts
+[2026-11-09 14:02:24 UTC] Reviewed binary diffing results
