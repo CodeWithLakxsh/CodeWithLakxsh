@@ -54,3 +54,4 @@
 [2026-11-09 14:03:13 UTC] Tested new Ghidra plugins
 [2026-11-09 14:03:13 UTC] Reviewed binary diffing results
 [2026-11-09 14:03:13 UTC] Updated YARA detection rules
+[2026-11-09 14:03:13 UTC] Updated Wireshark display filters
