@@ -212,3 +212,4 @@
 [2026-11-09 14:04:12 UTC] Documented malware IOCs
 [2026-11-09 14:04:12 UTC] Tested Frida hook scripts
 [2026-11-09 14:04:12 UTC] Reviewed network packet captures
+[2026-11-09 14:04:12 UTC] Reviewed CVE disclosures
