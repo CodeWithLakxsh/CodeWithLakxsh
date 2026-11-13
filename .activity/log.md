@@ -1,12 +1,3 @@
-- 2025-11-11T11:53:35+05:30: Updated docs
-- 2025-11-11T18:28:24+05:30: Security patch
-- 2025-11-13T22:40:58+05:30: Security patch
-- 2025-11-15T15:21:13+05:30: Security patch
-- 2025-11-27T17:53:11+05:30: Hardened CI pipeline
-- 2025-11-27T12:51:01+05:30: Updated docs
-- 2025-12-03T13:52:30+05:30: Hardened CI pipeline
-- 2025-12-03T22:01:12+05:30: Refactored config
-- 2025-12-03T16:04:48+05:30: Updated docs
 - 2025-12-04T20:06:27+05:30: Updated docs
 - 2025-12-04T22:09:34+05:30: Updated docs
 - 2025-12-04T19:36:36+05:30: Updated docs
@@ -186,3 +177,4 @@
 - 2026-11-13T12:09:09+05:30: Updated profile docs
 - 2026-11-13T22:06:01+05:30: Updated profile docs
 - 2026-11-13T21:00:51+05:30: Refined badge layout
+[2026-11-13 10:25:54 UTC] Studied Windows PE file structures
