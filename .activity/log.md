@@ -185,3 +185,4 @@
 - 2026-11-13T14:30:02+05:30: Updated profile docs
 - 2026-11-13T12:09:09+05:30: Updated profile docs
 - 2026-11-13T22:06:01+05:30: Updated profile docs
+- 2026-11-13T21:00:51+05:30: Refined badge layout
