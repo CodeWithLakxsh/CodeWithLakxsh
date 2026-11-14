@@ -1,4 +1,3 @@
-- 2025-12-04T22:09:34+05:30: Updated docs
 - 2025-12-04T19:36:36+05:30: Updated docs
 - 2025-12-04T15:36:01+05:30: Security patch
 - 2025-12-25T19:05:15+05:30: Hardened CI pipeline
@@ -178,3 +177,4 @@
 - 2026-11-13T21:00:51+05:30: Refined badge layout
 [2026-11-13 10:25:54 UTC] Studied Windows PE file structures
 [2026-11-13 21:21:07 UTC] Explored new exploit mitigation bypasses
+[2026-11-14 09:44:14 UTC] Improved code obfuscation detection
