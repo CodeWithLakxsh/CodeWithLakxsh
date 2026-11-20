@@ -1,4 +1,3 @@
-- 2026-01-15T22:57:22+05:30: Hardened CI pipeline
 - 2026-01-19T16:04:36+05:30: Hardened CI pipeline
 - 2026-01-27T13:04:38+05:30: Hardened CI pipeline
 - 2026-01-27T13:00:56+05:30: Hardened CI pipeline
@@ -178,3 +177,4 @@
 [2026-11-18 22:31:37 UTC] Practiced memory forensics with Volatility
 [2026-11-19 11:00:09 UTC] Analyzed a suspicious binary sample
 [2026-11-19 22:37:39 UTC] Updated Ghidra analysis plugins
+[2026-11-20 10:48:54 UTC] Tested new pentesting methodologies
